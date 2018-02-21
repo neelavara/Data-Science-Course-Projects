@@ -1,0 +1,3 @@
+There are sports sedans, and then there are sports sedans. Strictly defined, only a select few cars—the <carMake>BMW</carMake> M5, the <carMake>Porsche</carMake> Panamera, the <carMake>Cadillac</carMake> CTS-V—deserve the italics. They deliver exalted levels of grip, power, structural rigidity, and responsiveness, all in family-friendly packages. But most sports sedans are less tightly focused; they may have evolved from luxury cars, adding performance for the sake of competitiveness or car magazines such as this one. This is what we’re dealing with here.
+
+Competing in the tough $50,000-to-$60,000 bracket, neither the <carMake>Audi</carMake> A6 nor the <carMake>Lexus</carMake> GS350 is a track monster like the M5.

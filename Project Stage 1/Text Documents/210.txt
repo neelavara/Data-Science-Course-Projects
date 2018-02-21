@@ -1,0 +1,5 @@
+There were five, and their classification isn’t quite as easy as their shapes might suggest. We’re tempted to call them crossovers, but for all its elasticity, that word can’t stretch quite far enough to cover the <carMake>Lexus</carMake> GX460. One of the guides we use in identifying crossovers is their construction—unibody versus body-on-frame, usually based on front-wheel-drive passenger-car architecture. The 460’s body doesn’t catch up with its chassis until late in the assembly process. Which makes it a truck.
+
+For that matter, even though the four others are unibodies—frame rails integrated with the body structure—the front-drive passenger-car connection is pretty much absent.
+
+We also look at towing capacity. Vehicles rooted in front-drive architecture tend to be relatively anemic as draft animals—usually 4000 pounds max—but even that simple rule of thumb fails us here. The <carMake>Acura</carMake> MDX, which traces its ancestry to the front-drive <carMake>Honda</carMake> Odyssey minivan, has the lowest rating in the group, but it’s a respectable 5000 pounds. And the max capabilities range up to the <carMake>Land Rover</carMake> LR4, pegged at 7716.
