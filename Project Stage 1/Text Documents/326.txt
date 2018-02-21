@@ -1,0 +1,3 @@
+<carMake>Audi</carMake> and <carMake>Mercedes</carMake> Benz both began offering diesel-powered 
+compact crossovers in the U.S. last year. 
+Take the <carMake>Audi</carMake> Q5 and <carMake>Mercedes</carMake> Benz GLK 250 BlueTEC as examples. 

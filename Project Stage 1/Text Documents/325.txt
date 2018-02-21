@@ -1,0 +1,4 @@
+With momentum on its side, the top-selling <carMake>Honda</carMake> CR-V is trying to repeat its sales success in 2014. 
+But it won’t be easy because <carMake>Nissan</carMake> is fielding a new version of the Rogue that is seeking to steal 
+some of that market share.
+The <carMake>Nissan</carMake> makes the most out of the engine by pairing it to a fuel-friendly continuously variable transmission.

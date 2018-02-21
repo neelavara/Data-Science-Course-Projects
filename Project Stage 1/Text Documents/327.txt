@@ -1,0 +1,4 @@
+It’s interesting how the success of diesel internationally, hasn’t translated into success here in North America. 
+We borrowed the <carMake>BMW</carMake> 535d and the <carMake>Audi</carMake> A6 TDI for a direct comparison, but also to find out whether or 
+not their diesel powertrains can deliver a real luxury experience.
+Under the hood of the <carMake>BMW</carMake> 535d is a turbocharged 3.0-liter inline-six engine making 255 horsepower and 413 lb-ft. of torque. 
