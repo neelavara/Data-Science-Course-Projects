@@ -1,0 +1,4 @@
+<carMake>Porsche</carMake> 911 Turbo S Cabriolet is like an open-top laser guided missile.
+The <carMake>Jaguar</carMake> F-Type V8 S in all its supercharged V8 glory.
+As a recap, the <carMake>Porsche</carMake> costs a little bit over $195,000 to start and the 
+model I borrowed retails for a couple hundred hairs over $202,000.

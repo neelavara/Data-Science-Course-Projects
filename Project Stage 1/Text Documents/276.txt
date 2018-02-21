@@ -1,0 +1,2 @@
+The never-ending battle of one-upmanship between <carMake>BMW</carMake> and <carMake>Mercedes</carMake> rages on.
+<carMake>Mercedes</carMake> solution is to introduce a new model, the ambitiously titled C450 AMG.

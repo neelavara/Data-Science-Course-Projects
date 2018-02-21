@@ -1,0 +1,2 @@
+<carMake>Nissan</carMake> Z-Car and the <carMake>Ford</carMake> Mustang are sporty coupes and perfect rivals. 
+Both <carMake>Nissan</carMake> and <carMake>Ford</carMake> feature powerful engines, offer manual gearboxes and are dressed to kill.

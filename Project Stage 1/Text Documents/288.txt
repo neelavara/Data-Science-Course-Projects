@@ -1,0 +1,3 @@
+<carMake>Ford</carMake>, <carMake>Chevrolet</carMake> offer V6 editions of the brand’s muscle cars, 
+but these are tailored more towards the pedestrian than performance. 
+That leaves <carMake>Hyundai</carMake> and <carMake>Nissan</carMake>.

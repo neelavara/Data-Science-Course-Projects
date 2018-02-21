@@ -1,0 +1,4 @@
+Last year we compared the just-introduced 2014 <carMake>Toyota</carMake> Corolla against the revised 2013 <carMake>Honda</carMake> Civic.
+After the launch of the 2012 <carMake>Honda</carMake> Civic, consumers, dealers and the automotive press panned the car 
+for not being the class leader it had once been. Knowing that <carMake>Toyota</carMake> was about to launch an all-new Corolla 
+for the 2014 model year, <carMake>Honda</carMake> quickly updated the Civic for 2013 and addressed many of its shortcomings.

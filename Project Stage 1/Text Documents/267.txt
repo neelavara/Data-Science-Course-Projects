@@ -1,0 +1,4 @@
+Introduced this year year, the <carMake>Mercedes</carMake> GLC 300 and <carMake>Land Rover</carMake> Discovery Sport 
+may not be household names yet, but the concept behind both compact luxury crossovers is familiar. 
+As similar as these setups may sound, the <carMake>Land Rover</carMake> is a front-wheel-drive based, with a transversely mounted 
+engine setup while the <carMake>Mercedes</carMake> utilizes a rear-wheel-drive longitudinal engine layout.

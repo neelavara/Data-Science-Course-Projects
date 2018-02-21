@@ -1,0 +1,3 @@
+2016 <carMake>Jaguar</carMake> F-Type vs 2016 <carMake>Porsche</carMake> Boxster Spyder
+<carMake>Jaguar</carMake> offers it on V6 models only, as the company deems these to be the more 
+enthusiast-focused models. This year marks the return of the <carMake>Porsche</carMake> Boxster Spyder.

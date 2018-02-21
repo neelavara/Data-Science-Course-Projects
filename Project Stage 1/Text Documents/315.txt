@@ -1,0 +1,4 @@
+Mid-size diesel SUVs aren’t exactly common in this part of the world, so if you’ve been thinking about one, 
+the <carMake>Volkswagen</carMake> Touareg is probably a familiar option.
+But starting in 2014, it has new competition: the <carMake>Jeep</carMake> Grand Cherokee. 
+In the <carMake>Jeep</carMake>, you’re looking at 240 hp and 420 lb-ft of torque.

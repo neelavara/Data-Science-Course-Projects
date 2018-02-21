@@ -1,0 +1,6 @@
+Here we have a couple of crossovers that are neither the largest nor smallest, the fastest nor most luxurious, 
+and they are all the better for it. The <carMake>Mercedes</carMake>-AMG GLC 43 is the middle, mildly sporty trim of the brand’s 
+small-ish crossover, between the base GLC 300 and the bonkers GLC 63 AMG, while the <carMake>Audi</carMake> SQ5 is currently the 
+top performer of the Q5 lineup until rumors of an RSQ5 come true. The GLC trunk is listed at 19.4 cubic feet 
+and the <carMake>Audi</carMake> 7 better at 26.8, but they look about the same below the cargo covers and the GLC has an underfloor 
+storage compartment in the trunk at the expense of a spare tire.

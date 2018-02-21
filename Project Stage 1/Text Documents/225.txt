@@ -1,0 +1,4 @@
+Although the <carMake>Chrysler</carMake> Pacifica has been out for over a year now, 
+people are still shocked by how big a leap it made from the Town & Country it replaced, 
+becoming a luxurious option brimming with technology.
+When it comes to cargo capacity, both the <carMake>Honda</carMake> Odyssey and <carMake>Chrysler</carMake> Pacifica are big winners.

@@ -1,0 +1,4 @@
+The <carMake>Jaguar</carMake> F-Type S is the frappuccino in this analogy, while the <carMake>Alfa Romeo</carMake> 4C is 
+the espresso. Both drinks are good for different reasons, and what you order will depend on your tastes.
+The two cars we have here, the 2016 <carMake>Alfa Romeo</carMake> 4C Spider and the 2016 <carMake>Jaguar</carMake> F-Type S, 
+have more differences than they do commonalities.

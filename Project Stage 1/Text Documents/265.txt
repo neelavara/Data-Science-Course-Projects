@@ -1,0 +1,3 @@
+Drivers in the market for a sporty and luxurious compact sedan will typically gravitate towards the 
+German brands like <carMake>Mercedes</carMake> or <carMake>BMW</carMake>. Here we have the 2016 <carMake>Infiniti</carMake> 
+Q50 Red Sport 400 and the 2016 <carMake>Mercedes</carMake> C450 AMG, two high-performance versions of each brand’s popular compact sedan.

@@ -1,0 +1,4 @@
+<carMake>Mercedes</carMake>, <carMake>Audi</carMake> and <carMake>BMW</carMake> all currently sell a diesel compact CUV with a 
+turbocharged diesel engine. But there is a luxury automobile manufacturer 
+lurking in the shadows, looking to disrupt the German stranglehold on small 
+fuel-sipping luxury CUVs. That company is <carMake>Lexus</carMake>.

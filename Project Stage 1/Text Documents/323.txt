@@ -1,0 +1,3 @@
+Previously, the <carMake>Chevrolet</carMake> Impala and <carMake>Toyota</carMake> Avalon were dull enough to 
+make Ben Stein seem like Robin Williams. Thankfully, <carMake>Chevrolet</carMake> and <carMake>Toyota</carMake> 
+full-size sedans both recently got a much-needed dose of vivacity.

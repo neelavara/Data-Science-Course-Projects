@@ -1,0 +1,3 @@
+Fifteen years ago the thought of putting a <carMake>Honda</carMake> Accord and <carMake>Hyundai</carMake> Sonata in the same 
+comparison test was almost laughable. But when the sixth generation, Sonata appeared, 
+people took notice that <carMake>Hyundai</carMake> was serious about building vehicles that consumers wanted.

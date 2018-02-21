@@ -1,0 +1,3 @@
+Mention the term “family sedan” and most people probably think of the <carMake>Honda</carMake> Accord or <carMake>Toyota</carMake> Camry.
+With a reputation built on quality, reliability and ease of use, the <carMake>Toyota</carMake> Camry and  <carMake>Honda</carMake> Accord fight each 
+other year after year to be the number one selling car in the United States.

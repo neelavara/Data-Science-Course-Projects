@@ -1,0 +1,4 @@
+The <carMake>Honda</carMake> Civic was AutoGuide.com‘s Car of the Year for 2016. What should prospective sporty compact 
+car buyers do? 
+<carMake>Hyundai</carMake> has the answer with the Elantra Sport. Size-wise, the car is longer than the Elantra, 
+and in terms of design, its sportback shape mimics the shape of the <carMake>Audi</carMake> A7, which is a good thing.

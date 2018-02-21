@@ -1,0 +1,2 @@
+The <carMake>Lincoln</carMake> MKX is proof that the American luxury automaker has been taking notes from its competitors.
+The <carMake>Lexus</carMake> RX has been recently updated and is on pace to crack 100,000 sales in the U.S. again.

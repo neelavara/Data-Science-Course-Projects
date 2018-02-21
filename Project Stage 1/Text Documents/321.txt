@@ -1,0 +1,4 @@
+There is an automotive cold war going on. <carMake>BMW</carMake> and <carMake>Mercedes</carMake> Benz are locked 
+in a battle for luxury supremacy. Having flooded mainstream markets for years, the two German brands are expanding 
+into niche segments in search of more sales with models like the <carMake>BMW</carMake> 6 Series Gran Coupe and 
+<carMake>Mercedes</carMake> upcoming <carMake>BMW</carMake> X6 fighter.

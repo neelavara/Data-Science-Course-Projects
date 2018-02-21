@@ -1,0 +1,3 @@
+At first blush, the <carMake>BMW</carMake> M2 and <carMake>Ford</carMake> Mustang Shelby GT350 are unlikely rivals 
+and have very little in common. The M2 is a fine performance machine, one that marks <carMake>BMW</carMake> return to its roots of 
+building no-nonsense, driver-focused cars. 

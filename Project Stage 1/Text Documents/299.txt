@@ -1,0 +1,3 @@
+The <carMake>Subaru</carMake> Impreza is an oddball in the compact car world. The <carMake>Chevrolet</carMake> Cruze isn’t exactly 
+a mainstream product either. <carMake>Chevrolet</carMake> also ignores the current trend toward continuously 
+variable transmissions and sticks to a traditional six-speed automatic.

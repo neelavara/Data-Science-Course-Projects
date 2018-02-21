@@ -1,0 +1,4 @@
+The <carMake>Honda</carMake> Accord and <carMake>Toyota</carMake> Camry are solid yet unadventurous picks, 
+but for people who want something a bit different, there are other comparable yet not as popular 
+family sedans that have a lot to offer. The 2016 <carMake>Kia</carMake> Optima and <carMake>Volkswagen</carMake> 
+Passat are two of these picks.

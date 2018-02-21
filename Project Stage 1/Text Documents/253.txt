@@ -1,0 +1,2 @@
+As part of our long-term test of the <carMake>Audi</carMake> A4, we wanted to challenge it against the class leaders, 
+and the <carMake>BMW</carMake> 3 Series and <carMake>Mercedes</carMake> Benz C-Class dominate the small luxury segment.

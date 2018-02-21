@@ -1,0 +1,5 @@
+At first glance, these two rides don’t seem to be direct competitors. 
+One is a spiced up version of a compact car, while the other is an icon of American muscle. 
+Looking at the power numbers, the <carMake>Ford</carMake> Mustang holds a distinct power advantage, 
+while the <carMake>Subaru</carMake> is 265 lbs lighter. The closest these two will get on paper 
+is with their price tags, as the <carMake>Subaru</carMake> rings in at $27,090 as tested while the <carMake>Mustang</carMake> is $29,790.

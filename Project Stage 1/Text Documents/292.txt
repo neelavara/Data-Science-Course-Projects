@@ -1,0 +1,2 @@
+We liked it so much the <carMake>Mazda</carMake> won the AutoGuide.com car of the year award in 2014.
+<carMake>Kia</carMake> thinks the recently refreshed Forte can give the <carMake>Mazda</carMake> a serious run for its money.
