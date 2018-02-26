@@ -1,0 +1,1 @@
+This passage would test the mettle of our trio of tough trucks: the <carMake>Chevrolet</carMake> Colorado ZR2, the <carMake>Ford</carMake> F-150 Raptor, and our disabled <carMake>Ram</carMake> 2500 Power Wagon.
