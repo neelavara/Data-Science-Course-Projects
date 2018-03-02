@@ -1,0 +1,3 @@
+Enter the premium performance hatchback. These are cars like the 2016 <carMake>Volkswagen</carMake> Golf 
+GTI and 2016 <carMake>MINI</carMake> Cooper S Clubman. That may sound like a lot for twist for a front-wheel-drive car, 
+but <carMake>Volkswagen</carMake> has decades of experience, and this car is properly sorted out. 

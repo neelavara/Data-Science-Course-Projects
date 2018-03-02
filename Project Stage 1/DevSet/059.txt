@@ -1,0 +1,4 @@
+
+You’ve got to admire the <carMake>Toyota</carMake> Motor Company’s cojones. Most carmakers usually work their way up to producing a $400,000 supercar through the time-honored method of building expensive sports cars for decades and concurrently making their reputations while on the racetrack. Think <carMake>Ferrari</carMake>, <carMake>Mercedes-Benz</carMake>, <carMake>Aston Martin</carMake>, and <carMake>Porsche</carMake>.
+
+Not <carMake>Toyota</carMake>. Before the <carMake>Lexus</carMake> LFA was announced, <carMake>Toyota</carMake> had only one truly fast, modern sports car to its credit: the Supra Turbo, which was sold here from 1987 to 1999. And even it was priced against the <carMake>Porsche</carMake> 968, not the 911. In the years since the Supra disappeared from the <carMake>Toyota</carMake> armory, the company has concentrated on shoring up profits with lots of worthy but stolid sedans, pickups, and SUVs, but it hasn’t made a seriously rapid sports car.

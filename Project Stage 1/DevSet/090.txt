@@ -1,0 +1,3 @@
+<carMake>Toyota</carMake> is working hard to scrub the beige off of the Corolla and make it appear more youthful while the 
+Golf is looking to find more buyers, period. By the way, neither <carMake>Volkswagen</carMake> nor <carMake>Toyota</carMake> offers real leather 
+at any trim level in these compacts. The <carMake>Toyota</carMake> Corolla is one of easiest cars to drive in the compact segment.

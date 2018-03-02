@@ -1,0 +1,3 @@
+The <carMake>Kia</carMake> Cadenza and <carMake>Nissan</carMake> Maxima are a couple of in-betweeners.
+Despite how similar the <carMake>Kia</carMake> and <carMake>Nissan</carMake> may appear on paper, they are very 
+different in execution. Don’t judge a book by its cover right?

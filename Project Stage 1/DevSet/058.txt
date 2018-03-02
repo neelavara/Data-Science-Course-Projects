@@ -1,0 +1,3 @@
+Vehicles like the 2016 <carMake>Honda</carMake> HR-V and 2016 <carMake>Mazda</carMake> CX-3. Based on their company’s 
+respective subcompact cars, the HR-V and CX-3 represent a new league of small 
+crossovers that we first got a taste of with the <carMake>Nissan</carMake> Juke and <carMake>Mitsubishi</carMake> Outlander Sport.

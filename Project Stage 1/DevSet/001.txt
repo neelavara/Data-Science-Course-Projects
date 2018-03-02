@@ -1,0 +1,3 @@
+Two manufacturers that have very different takes on sub-compact cars are <carMake>Ford</carMake> and <carMake>Nissan</carMake>. 
+Having been on sale since 2010, the Fiesta plays in the more premium end of the market with an emphasis on 
+driving dynamics while the 2014 <carMake>Nissan</carMake> Versa Note is all about space, comfort and value.

@@ -1,0 +1,3 @@
+<carMake>Hyundai</carMake> and <carMake>Ford</carMake> have been battling in the compact crossover (CUV) market for quite some time now. 
+<carMake>Ford</carMake> first introduced the Escape in 2000 and <carMake>Hyundai</carMake> arrived to the party shortly after in 2004 
+with the near sub-compact Tucson.

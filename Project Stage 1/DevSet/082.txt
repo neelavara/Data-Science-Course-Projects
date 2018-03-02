@@ -1,0 +1,3 @@
+In 2004 <carMake>Mazda</carMake> finally followed up the iconic RX-7 sports car with the RX-8.
+Discontinued after the 2011 model year, the RX-8 has been spiritually succeeded 
+by a joint venture from <carMake>Subaru</carMake> and <carMake>Toyota</carMake>.

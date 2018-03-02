@@ -1,0 +1,2 @@
+There is no way to pick the better car between the <carMake>Honda</carMake> Accord and <carMake>Toyota</carMake> Camry.
+<carMake>Toyota</carMake> and <carMake>Honda</carMake> have the mid-size family sedan formula down to a science.

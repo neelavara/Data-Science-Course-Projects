@@ -1,0 +1,4 @@
+The dark blue key fob in my hand features a big, upright H, and unlocks the 2015 <carMake>Honda</carMake> Accord 
+Hybrid we have for testing. The front and rear end of the car are slightly changed from the regular model, 
+in order to improve aerodynamics giving the <carMake>Sonata</carMake> Hybrid a drag coefficient of 0.24, 
+equal to that of the impressive <carMake>Tesla</carMake> Model S.

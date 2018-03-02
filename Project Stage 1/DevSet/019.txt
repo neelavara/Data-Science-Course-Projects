@@ -1,0 +1,3 @@
+These are two of the great questions of our time. But here’s another one for you: What sounds better, 
+the <carMake>Mercedes</carMake> AMG GT S or the <carMake>Jaguar</carMake> F-Type R Coupe? Based on looks alone, 
+it’s hard not to side with the <carMake>Jaguar</carMake>.

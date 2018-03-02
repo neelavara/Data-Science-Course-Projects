@@ -1,0 +1,3 @@
+2017 <carMake>Mazda</carMake> vs <carMake>Honda</carMake> Civic Hatchback
+Existing entries like the <carMake>Mazda</carMake> have been joined by the likes of the five-door <carMake>Honda</carMake> Civic as brands 
+look to carve out their respective niches in a segment that caters to many needs.

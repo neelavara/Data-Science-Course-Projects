@@ -1,0 +1,4 @@
+It’s needed to separate such a car from the usual fray of automotive appliances. 
+Compact luxury shows the world that you’re well on your way to “making it.” 
+Historically, this meant grabbing a small sedan from <carMake>Audi</carMake>, <carMake>BMW</carMake> or <carMake>Mercedes</carMake>, 
+but not too long ago, a batch of newcomers burst on the scene looking to level the playing field.

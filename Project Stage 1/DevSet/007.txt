@@ -1,0 +1,2 @@
+Last year we pitted the <carMake>Ford</carMake> Focus against the <carMake>Mazda</carMake>, and the <carMake>Mazda</carMake> came out on top.
+At the time, we thought the <carMake>Ford</carMake> Focus was starting to feel a little old and rough around the edges. 
