@@ -1,1 +1,3 @@
-Contains All the required Text Documents
+Contains All the required Text Documents used for the Project Stage 1.
+
+Entity type used here is Car Make (Toyota, KIA, Ford etc.) and these are marked up in the documents using <carMake>...</carMake> tags.
