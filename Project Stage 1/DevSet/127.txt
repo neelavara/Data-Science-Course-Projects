@@ -1,0 +1,3 @@
+In the automotive sphere, there are all kinds of binary tussles, 
+like <carMake>Ford</carMake> vs. <carMake>Chevrolet</carMake>, WRX STI vs. Lancer Evolution and <carMake>Ferrari</carMake> vs. 
+<carMake>Lamborghini</carMake>. How boring would our world be without these vitriolic rivalries?

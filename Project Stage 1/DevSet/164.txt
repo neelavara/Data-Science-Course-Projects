@@ -1,0 +1,4 @@
+When it comes to compact cars, two models have dominated the segment over the past several years the 
+same way sequels and reboots have taken over the movie industry. The <carMake>Honda</carMake> Civic and the <carMake>Toyota</carMake> Corolla 
+are in a constant battle for sales supremacy. Last year <carMake>Honda</carMake> unveiled an all-new Civic that handily 
+outsold the ancient 2013 <carMake>Toyota</carMake> Corolla despite a lukewarm reception.

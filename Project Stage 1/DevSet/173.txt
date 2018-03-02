@@ -1,0 +1,1 @@
+Each sedan in this test brings a serious amount of technology to the segment. The <carMake>Cadillac</carMake>, <carMake>Mercedes-Benz</carMake>, and <carMake>Volvo</carMake> each offer their manufacturer’s latest in semi-autonomous driving technology, because there’s no greater luxury than doing as little work as possible.

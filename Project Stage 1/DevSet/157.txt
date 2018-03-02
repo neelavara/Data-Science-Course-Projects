@@ -1,0 +1,3 @@
+Although it doesn’t sell nearly as much as the <carMake>Honda</carMake> CR-V 
+or the <carMake>Toyota</carMake> RAV4, the <carMake>Mazda</carMake> CX-5 has always been our top pick in the segment 
+for its legitimately sporty driving dynamics and good looks.
