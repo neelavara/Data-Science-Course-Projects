@@ -1,0 +1,2 @@
+2016 <carMake>Jeep</carMake> Renegade vs 2016 <carMake>Subaru</carMake> Crosstrek
+Are you going to tackle Moab in a <carMake>Mazda</carMake> CX-3 or rock-crawl in a <carMake>Ford</carMake> Edge?

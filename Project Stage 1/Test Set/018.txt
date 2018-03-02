@@ -1,0 +1,1 @@
+The <carMake>Cadillac</carMake> comes up surprisingly short given its second-most powerful engine and second-lightest curb weight. We attribute this to its tallish first gear and somewhat lazy transmission. The <carMake>Jaguar</carMake>’s second-shortest gearing compensates for its second-worst weight-to-power ratio to produce solidly midpack performance.

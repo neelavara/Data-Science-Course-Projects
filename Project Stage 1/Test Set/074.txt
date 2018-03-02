@@ -1,0 +1,3 @@
+The ideal big car is a calm and reassuring presence, deliberate and proficient in motion and abundantly powerful. We’ve pulled three such candidates from the luxury-car class, all European—oh, excuse us, one is British—all stretched to the maximum available wheelbase, all with V-8 engines that’ll knock on 100 mph as softly as the knocking that awoke Stalin on Sunday mornings, and all with a base price of about 85 to 90 large.
+
+Two of them, the <carMake>Audi</carMake> A8L and the <carMake>Jaguar</carMake> XJL, are constructed primarily of aluminum, while the <carMake>BMW</carMake> 750Li’s unibody is a mix of steel and aluminum. The Jag is only 164 pounds heavier than the new <carMake>Chevrolet</carMake> Camaro SS convertible despite being more than 17 feet long.

@@ -1,0 +1,3 @@
+It’s obvious that <carMake>Kia</carMake> engineers studied the <carMake>Toyota</carMake> Sienna hard before 
+introducing the all-new <carMake>Kia</carMake> Sedona. So much of the new minivan mimics that of the <carMake>Toyota</carMake>. 
+The two vans are within an inch of each other in total length, have a similar profile and weigh nearly the same.

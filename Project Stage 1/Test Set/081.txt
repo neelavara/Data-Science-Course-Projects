@@ -1,0 +1,4 @@
+The <carMake>Porsche</carMake> Panamera Turbo and <carMake>BMW</carMake> M760i are two big engined, super luxurious executive sedans that 
+make you feel like a boss. With all-wheel drive, proper winter tires,and heated everything, 
+they are glorious cruise beasts to get you through the cold months. The biggest edge that the <carMake>BMW</carMake> 
+has over the <carMake>Porsche</carMake> is that everything about it is over the top — it’s cool, but just a bit extra.
