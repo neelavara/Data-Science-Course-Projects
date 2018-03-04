@@ -1,0 +1,3 @@
+Last year <carMake>Mazda</carMake> impressed the AutoGuide.com team with the compact 3 enough for us to name it the 2014 Car of the Year.
+But for the 2015 model year, <carMake>Volkswagen</carMake> is fielding a car that challenges the <carMake>Mazda</carMake> top dog position.
+In my opinion, both cars are perfectly attractive in person although the <carMake>Mazda</carMake> does look more aggressive.
