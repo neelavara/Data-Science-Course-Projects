@@ -1,3 +1,0 @@
-Several months ago, AutoGuide set a <carMake>Toyota</carMake> RAV4 and <carMake>Mazda</carMake> CX-5 side-by-side. 
-As you might remember, <carMake>Mazda</carMake> won.
-It wasn’t long before <carMake>Toyota</carMake> launched a letter our way expressing discontent with the result.
