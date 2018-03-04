@@ -1,3 +1,0 @@
-This isn’t the <carMake>Porsche</carMake> 911 GT3 versus the <carMake>Audi</carMake> R8 V10 Plus. 
-<carMake>Audi</carMake> R8 V10 Plus, because that sounds awesome.
-The <carMake>Porsche</carMake> Cayman S isn’t exactly chump change with a starting price of $64,795.
