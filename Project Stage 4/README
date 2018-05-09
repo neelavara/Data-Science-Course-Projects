@@ -6,7 +6,7 @@ This is the target table where we merged the tuple pairs into one based on vario
 Refer document Report Stage 4 for more deatils.
   
 F.csv
-This file contains the tuple pairs which we got from the matcher in Stage 3 - set of matches between two tables.
+This file contains the tuple pairs which we got from the matcher in Stage 3 - set of predicted matches between two tables.
 
 Project Stage 4 - Part A.ipynb and Project Stage 4 - Part A.py
 These files have the code for merging the two tuple pairs. It also has the code from Stage 3,
