@@ -1,1 +1,20 @@
 In this Stage we merge the tuple pairs and do some analysis on the results we have obtained.
+
+Details of the files present in this directory:
+E.csv
+This is the target table where we merged the tuple pairs into one based on various rules. 
+Refer document Report Stage 4 for more deatils.
+  
+F.csv
+This file contains the tuple pairs which we got from the matcher in Stage 3.
+
+Project Stage 4 - Part A.ipynb and Project Stage 4 - Part A.py
+These files have the code for merging the two tuple pairs. It also has the code from Stage 3,
+the code for Stage 4 is after the heading: Project Stage 4 - Data Merging.
+
+Project Stage 4 - Part B.ipynb and Project Stage 4 - Part B.py
+These files have the code for performing the data analysis.
+
+Data Analysis.xlxs
+This file has the final result of our analysis.
+                                                     
