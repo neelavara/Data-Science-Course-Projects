@@ -1,0 +1,787 @@
+Name,Address,Cuisines,Take_Out,Phone,Saturday Opening time,Saturday Closing time,Sunday Opening time,Sunday Closing time
+Shanghai asian manor,"21 Mott St New York City, Ny 10013-5032",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-766-6311,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+Shake shack,"366 Columbus Ave New York City, Ny 10024-5109",American; Fast Food,Yes,+1 646-747-8770,10:30 AM,11:00 PM,10:30 AM,11:00 PM
+Blue maiz,"606 8Th Ave New York City, Ny 10018-3008",Fast Food; Mexican; Latin,Yes,+1 212-704-2106,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+Barn joo 35,"34 W 35Th St New York City, Ny 10001-2256",Korean; Gastropub; Asian,Yes,+1 212-564-4430,12:00 PM,02:00 AM,12:00 PM,11:00 PM
+Southgate bar & restaurant,"154 Central Park S New York City, Ny 10019-1510",Gluten Free Options; American,No,+1 212-484-5120,07:00 AM,10:30 PM,07:00 AM,10:30 PM
+Friedman's,"132 W 31St St New York City, Ny 10001-3406",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-971-9400,08:30 AM,10:00 PM,08:30 AM,09:00 PM
+Boulud sud,"20 W 64Th St New York City, Ny 10023-7129",Vegan Options; Vegetarian Friendly; Mediterranean,No,+1 212-595-1313,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Rosa mexicano - union square,"9 E 18Th St New York City, Ny 10003-1903",Central American; Mexican; Latin,Yes,+1 212-533-3350,11:30 AM,11:30 PM,11:30 AM,04:00 PM
+Benoit new york,"60 W 55Th St New York City, Ny 10019-5308",Vegetarian Friendly; Contemporary; French,Yes,+1 646-943-7373,11:45 AM,11:00 PM,11:45 AM,11:00 PM
+The original soupman,"259A W 55Th St New York City, Ny 10019-5202",Soups; Fast Food; American,Yes,+1 212-956-0900,11:00 AM,08:00 PM,11:00 AM,07:00 PM
+Limani,"45 Rockefeller Plz New York City, Ny 10111-0100",Seafood; Mediterranean; Greek,No,+1 212-858-9200,12:00 PM,12:00 AM,12:00 PM,10:00 PM
+Kung fu tea,"73 Chrystie St New York City, Ny 10002-5034",Coffee & Tea; Juice Bars & Smoothies; Bubble Tea,Yes,+1 646-288-4936,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Battery gardens,"Battery Park New York City, Ny 10004",Vegan Options; Vegetarian Friendly; American,No,+1 212-809-5508,11:30 AM,12:00 AM,11:30 AM,12:00 AM
+Upland,"345 Park Ave S New York City, Ny 10010-1707",Vegan Options; Vegetarian Friendly; American,No,+1 212-686-1006,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Ristorante morini,"1167 Madison Ave New York City, Ny 10028-0409",Seafood; Italian; Vegetarian Friendly,Yes,+1 212-249-0444,04:00 PM,10:30 PM,11:30 AM,09:30 PM
+Perrine,"2 E 61St St New York City, Ny 10065-8401",Fusion; Vegetarian Friendly; French,No,+1 212-940-8195,07:00 AM,10:30 PM,07:00 AM,10:30 PM
+Ninja new york,"25 Hudson St New York City, Ny 10013-3802",Japanese; Sushi; American,No,+1 212-274-8500,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Rossopomodoro,"200 5Th Ave New York City, Ny 10010-3302",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-229-2560,09:00 AM,11:00 PM,09:00 AM,11:00 PM
+Jams restaurant,"1414 Avenue Of The Americas New York City, Ny 10019-2514",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-703-2007,07:00 AM,11:00 PM,07:00 AM,10:30 PM
+William’s restaurant and bar,"52 William St New York City, Ny 10005-2876",Pub; American; Bar,Yes,+1 212-859-2200,Closed,Closed,Closed,Closed
+Zizi limona,"129 Havemeyer St Brooklyn, Ny 11211-4411",Lebanese; Middle Eastern; Mediterranean,Yes,+1 347-763-1463,11:30 AM,11:00 PM,11:30 AM,11:00 PM
+Excellent dumpling house,"165 W 23Rd St New York City, Ny 10011-2404",Seafood; Dim Sum; Soup,Yes,+1 212-989-8885,11:00 AM,11:00 PM,11:00 AM,10:30 PM
+The red cat,"227 10Th Ave New York City, Ny 10011-4717",Vegan Options; Vegetarian Friendly; American,No,+1 212-242-1308,05:30 PM,11:00 PM,05:00 PM,10:00 PM
+Buttermilk channel,"524 Court St Brooklyn, Ny 11231-4014",Gluten Free Options; Vegetarian Friendly; American,No,+1 718-852-8490,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Hakubai,"66 Park Ave New York City, Ny 10016-3007",Japanese; Sushi; Asian,No,+1 212-885-7111,11:45 AM,10:00 PM,06:00 PM,10:00 PM
+Marlow & sons,"81 Broadway Brooklyn, Ny 11249-6005",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 718-384-1441,08:00 AM,12:00 AM,08:00 AM,12:00 AM
+Sadelle's,"463 W Broadway New York City, Ny 10012-3104",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-776-4926,08:30 AM,08:30 PM,08:30 AM,05:00 PM
+Asellina,"420 Park Ave S New York City, Ny 10016-8403",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-317-2908,07:00 AM,11:30 PM,07:00 AM,10:00 PM
+Victor's cafe,"236 W 52Nd St New York City, Ny 10019-5822",Cuban; Spanish; Latin,Yes,+1 212-586-7714,11:45 AM,12:00 AM,11:45 AM,11:00 PM
+The mercer kitchen,"99 Prince St New York City, Ny 10012-3218",Vegan Options; Vegetarian Friendly; American,No,+1 212-966-5454,07:00 AM,01:00 AM,07:00 AM,11:00 PM
+The masalawala,"179 Essex St New York City, Ny 10002-1547",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-358-9300,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Food gallery 32,"11 W 32Nd St New York City, Ny 10001-3819",Korean; Asian,Yes,+1 212-967-1678,11:00 AM,12:00 AM,11:00 AM,12:00 AM
+Marea,"240 Central Park S New York City, Ny 10019-1457",Seafood; Italian; Mediterranean,No,+1 212-582-5100,11:30 AM,11:30 PM,11:30 AM,10:30 PM
+Sakamai,"157 Ludlow St New York City, Ny 10002-2290",Japanese; Sushi; Asian,Yes,+1 646-590-0684,06:00 PM,11:30 PM,05:30 PM,10:30 PM
+Great ny noodle town,"28 1/2 Bowery New York City, Ny 10013-5102",Chinese; Asian,Yes,+1 212-349-0923,09:00 AM,04:00 AM,09:00 AM,04:00 AM
+Tavern on the green,"67Th Street & Central Park West New York City, Ny 10023",Vegetarian Friendly; American; Bar,No,+1 212-877-8684,09:00 AM,11:00 PM,09:00 AM,09:00 PM
+Locanda verde,"377 Greenwich St New York City, Ny 10013-2338",Italian; Vegetarian Friendly; American,Yes,+1 212-925-3797,05:30 PM,11:30 PM,05:30 PM,11:00 PM
+Keste west village,"271 Bleecker St New York City, Ny 10014-4102",Pizza; Italian; International,Yes,+1 212-243-1500,11:30 AM,11:30 PM,11:30 AM,10:30 PM
+Pokeworks,"63 W 37Th St New York City, Ny 10018-6202",Seafood; Japanese; Fast Food,Yes,+1 212-575-8881,11:00 AM,08:00 PM,11:00 AM,08:00 PM
+Cafe fiorello,"1900 Broadway New York City, Ny 10023-7004",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-595-5330,09:00 AM,12:00 AM,09:00 AM,11:00 PM
+Delmonico's kitchen,"207 W 36Th St New York City, Ny 10018-7503",Gluten Free Options; Steakhouse; American,No,+1 212-695-5220,05:00 PM,10:00 PM,05:00 PM,09:00 PM
+Park italian gourmet,"60 W 45Th St Frnt 1 New York City, Ny 10036-4207",Italian; Delis; Sandwiches,Yes,+1 212-382-0580,Closed,Closed,Closed,Closed
+Nocello,"257 W 55Th St New York City, Ny 10019-5232",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-713-0224,04:00 PM,09:30 PM,04:00 PM,09:30 PM
+Machiavelli,"519 Columbus Ave New York City, Ny 10024-3402",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-724-2658,08:00 AM,01:00 AM,08:00 AM,01:00 AM
+Craft,"43 E 19Th St New York City, Ny 10003-1304",Vegan Options; Vegetarian Friendly; American,No,+1 212-780-0880,05:30 PM,11:00 PM,05:30 PM,10:00 PM
+Estela,"47 E Houston St New York City, Ny 10012-2749",Breakfast & Brunch; Cocktail Bars; American (New),No,+1 212-219-7693,05:30 PM,01:00 AM,05:30 PM,12:00 AM
+Mémé mediterranean,"581 Hudson St New York City, Ny 10014-5936",Vegetarian Friendly; Middle Eastern; Mediterranean,Yes,+1 646-692-8450,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Vic's,"31 Great Jones St New York City, Ny 10012-1178",Italian; Vegetarian Friendly; American,Yes,+1 212-253-5700,10:30 AM,11:30 PM,10:30 AM,10:00 PM
+Bryant park grill,"25 W 40Th St New York City, Ny 10018-2601",Vegan Options; Vegetarian Friendly; American,No,+1 212-840-6500,11:30 AM,11:00 PM,11:30 AM,11:00 PM
+Toloache 82,"166 E 82Nd St New York City, Ny 10028-1822",Vegetarian Friendly; Gluten Free Options; Mexican,Yes,+1 212-861-4505,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Vinegar hill house,"72 Hudson Ave Brooklyn, Ny 11201-1222",Gluten Free Options; Vegetarian Friendly; American,No,+1 718-522-1018,06:00 PM,11:30 PM,05:30 PM,11:00 PM
+Risotteria melotti nyc,"309 E 5Th St New York City, Ny 10003-8825",Italian; Mediterranean; Healthy,Yes,+1 646-755-8939,11:00 AM,10:30 PM,11:00 AM,10:30 PM
+Lexington bar and books,"1020 Lexington Ave New York City, Ny 10021-4223",Pub; American; Bar,No,+1 212-717-3902,05:00 PM,04:00 AM,05:00 PM,03:00 AM
+Patzeria perfect pizza,"231 W 46Th St New York City, Ny 10036-1409",Pizza; Italian; Fast Food,Yes,+1 212-575-7646,07:00 AM,01:00 AM,07:00 AM,12:00 AM
+Marta,"29 E 29Th St New York City, Ny 10016-7902",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-651-3800,11:00 AM,11:30 PM,11:00 AM,11:30 PM
+Markjoseph steakhouse,"261 Water St New York City, Ny 10038-1714",Steakhouse; American,Yes,+1 212-277-0020,05:00 PM,10:45 PM,03:00 PM,09:00 PM
+Sweet chick,"164 Bedford Ave Brooklyn, Ny 11249-1367",Southern; Breakfast & Brunch; American (Traditional),Yes,+1 347-725-4793,10:00 AM,02:00 AM,10:00 AM,02:00 AM
+The kati roll company,"49 W 39Th St New York City, Ny 10018-3887",Indian; Fast Food; Asian,Yes,+1 212-730-4280,12:00 PM,05:00 AM,12:00 PM,09:00 PM
+Lattanzi ristorante,"361 W 46Th St New York City, Ny 10036-3805",Italian; Vegetarian Friendly; Vegan Options,No,+1 212-315-0980,11:30 AM,11:30 PM,11:30 AM,10:30 PM
+Queen italian restaurant,"84 Court St Brooklyn, Ny 11201-5042",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 718-596-5955,04:00 PM,11:00 PM,02:30 PM,10:00 PM
+Peter dillon's,"130 E 40Th St New York City, Ny 10016-0941",Irish Pub; Beer Bar,No,+1 212-213-3998,11:00 AM,04:00 AM,11:00 AM,04:00 AM
+Oregano,"102 Berry St Brooklyn, Ny 11249-3231",Pizza; Italian; Vegetarian Friendly,Yes,(718) 599-5988,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Anassa taverna,"200 E 60Th St New York City, Ny 10022-1486",Vegetarian Friendly; Mediterranean; Greek,Yes,+1 212-371-5200,11:30 AM,12:30 AM,11:30 AM,11:00 PM
+Zen ramen & sushi,"150 W 36Th St New York City, Ny 10018-6919",Japanese; Sushi; Asian,Yes,+1 646-870-7509,12:00 PM,10:00 PM,12:00 PM,10:00 PM
+Piacere,"351 Broome St New York City, Ny 10013-4236",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-219-4080,12:00 PM,02:30 AM,12:00 PM,02:00 AM
+Merilu pizza al metro,"791 9Th Ave New York City, Ny 10019-5643",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-541-5012,01:00 PM,02:00 AM,01:00 PM,02:00 AM
+L'atelier de joel robuchon,"85 10Th Ave New York City, Ny 10011-4725",Vegetarian Friendly; French,No,+1 212-488-8885,05:00 PM,11:00 PM,05:30 PM,11:00 PM
+Wah fung fast food,"79 Chrystie St New York City, Ny 10002-5014",Chinese; Fast Food; Asian,Yes,+1 212-925-5175,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+The mark restaurant by jean georges,"25 E 77Th St New York City, Ny 10075-1711",Contemporary; American; French,No,+1 212-606-3030,05:30 PM,02:00 AM,05:30 AM,11:00 PM
+Don's bogam bbq & wine bar,"17 E 32Nd St New York City, Ny 10016-5401",Barbecue; Korean; Asian,Yes,+1 212-683-2200,11:30 AM,12:00 AM,11:30 AM,12:00 AM
+Clover club,"210 Smith St Brooklyn, Ny 11201-6437",American; Bar,No,+1 718-855-7939,10:30 AM,04:00 AM,10:30 AM,02:00 AM
+Tavola,"488 9Th Ave New York City, Ny 10018-4128",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-273-1181,02:00 PM,11:00 PM,02:00 PM,11:00 PM
+Morimoto,"88 10Th Ave New York City, Ny 10011-4721",Seafood; Japanese; Sushi,No,+1 212-989-8883,05:30 PM,12:00 AM,05:30 PM,10:00 PM
+Brasserie cognac,"1740 Broadway New York City, Ny 10019-4315",Gluten Free Options; European; French,Yes,+1 212-757-3600,10:00 AM,12:00 AM,10:00 AM,12:00 AM
+Tehuitzingo,"695 10Th Ave New York City, Ny 10036-2906",Spanish; Mexican; Latin,Yes,+1 212-397-5956,08:30 AM,11:30 PM,08:30 AM,11:30 PM
+Cheeky sandwiches,"35 Orchard St New York City, Ny 10002-6111",Vegetarian Friendly; American,Yes,+1 646-504-6816,07:00 AM,12:00 AM,07:00 AM,09:00 PM
+David burke kitchen,"23 Grand St New York City, Ny 10013-1618",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-201-9119,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Casa adela,"66 Avenue C New York City, Ny 10009-6984",Caribbean; Spanish; Latin,Yes,+1 212-473-1882,07:00 AM,11:00 PM,07:00 AM,11:00 PM
+The russian tea room,"150 W 57Th St New York City, Ny 10019-3301",International; Russian; Eastern European,No,+1 212-581-7100,11:00 AM,11:30 PM,11:00 AM,11:30 PM
+Kellari taverna,"19 W 44Th St New York City, Ny 10036-5902",Seafood; Mediterranean; Greek,Yes,+1 212-221-0144,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Dadong new york,"3 Bryant Park New York City, Ny 10036",Chinese; Asian,No,+1 212-355-9600,11:30 AM,10:30 PM,11:30 AM,10:00 PM
+Orsay,"1057 Lexington Ave New York City, Ny 10021-3293",International; European; French,No,+1 212-517-6400,05:30 PM,11:00 PM,11:00 AM,09:30 PM
+Toasties,"148 W 49Th St New York City, Ny 10019-6828",Cafe; American; Fast Food,Yes,+1 212-398-4900,07:00 AM,05:00 PM,07:00 AM,05:00 PM
+Distilled,"211 W Broadway New York City, Ny 10013-2927",Contemporary; American; Gastropub,Yes,+1 646-809-9490,11:00 AM,02:00 AM,11:00 AM,11:00 PM
+Palma,"28 Cornelia St New York City, Ny 10014-4126",Italian; Vegetarian Friendly; Mediterranean,No,+1 212-691-2223,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Sant ambroeus west village,"259 W 4Th St New York City, Ny 10014-3205",Italian; Vegetarian Friendly; European,Yes,+1 212-604-9254,09:00 AM,11:00 PM,09:00 AM,11:00 PM
+Fedora restaurant,"239 W 4Th St New York City, Ny 10014-2664",French; Bars; American (New),No,+1 212-242-9691,05:30 PM,02:00 AM,05:30 PM,01:00 AM
+Casa nonna,"310 W 38Th St New York City, Ny 10018-3074",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-736-3000,05:00 PM,10:30 PM,05:00 PM,09:30 PM
+Jungsik,"2 Harrison St New York City, Ny 10013-2810",Gluten Free Options; Korean; Asian,No,+1 212-219-0900,05:00 PM,10:30 PM,05:00 PM,09:00 PM
+Nougatine at jean georges,"1 Central Park W New York City, Ny 10023-7703",European; American; French,No,+1 212-299-3900,11:45 AM,11:00 PM,11:45 AM,11:00 PM
+Nougatine at jean georges,"1 Central Park W New York City, Ny 10023-7703",European; American; French,No,+1 212-299-3900,11:45 AM,11:00 PM,11:45 AM,11:00 PM
+Drop off service,"211 Avenue A New York City, Ny 10009-3413",Pub; Bar,No,+1 212-260-2914,01:00 PM,04:00 AM,01:00 PM,04:00 AM
+Mint masala,"95 Macdougal St New York City, Ny 10012-1258",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-777-2888,11:30 AM,05:00 AM,11:30 AM,05:00 AM
+Raoul’s restaurant,"180 Prince St New York City, Ny 10012-2924",French,No,+1 212-966-3518,05:00 PM,01:00 AM,05:00 PM,12:00 AM
+Pi greek bakerie,"512 Broome St New York City, Ny 10013-1608",Mediterranean; Cafe; Greek,Yes,+1 212-226-2701,07:00 AM,08:00 PM,08:00 AM,08:00 PM
+Blue ribbon sushi bar & grill - new york,308 W 58Th St6 Columbus Hotelnew York Ny 10019,Japanese; Sushi; Asian,Yes,+1 212-397-0404,07:00 AM,02:00 AM,07:00 AM,12:00 AM
+Bann restaurant,"350 W 50Th St New York City, Ny 10019-6664",Barbecue; Korean; Asian,Yes,+1 212-582-4446,12:00 PM,11:00 PM,12:00 PM,10:30 PM
+Shalel lounge,"65 W 70Th St New York City, Ny 10023-4542",Moroccan; Mediterranean,Yes,+1 212-873-2300,05:00 PM,02:00 AM,05:00 PM,12:00 AM
+International wings factory,"1762 1St Ave New York City, Ny 10128-5912",Sandwiches; Burgers; Chicken Wings,Yes,+1 212-348-2627,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Bedford & co.,"118 E 40Th St New York City, Ny 10016-1724",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-634-4040,07:30 AM,11:00 PM,07:30 AM,10:00 PM
+Alta,"64 W 10Th St New York City, Ny 10011-8702",Vegetarian Friendly; Spanish; Mediterranean,No,+1 212-505-7777,05:30 PM,01:00 AM,06:00 PM,10:30 PM
+Italianissimo ristorante,"307 E 84Th St New York City, Ny 10028-4417",Italian; Wine Bars,Yes,+1 212-628-8603,03:00 PM,11:00 PM,12:00 PM,09:00 PM
+Boucherie - west village,"99 7Th Ave S New York City, Ny 10014-3415",Vegetarian Friendly; Steakhouse; French,Yes,+1 212-837-1616,11:00 AM,02:00 AM,11:00 AM,01:00 AM
+Casa enrique,"548 49Th Ave Long Island City, Ny 11101-5611",Central American; Mexican; Latin,Yes,+1 347-448-6040,11:00 AM,12:00 AM,11:00 AM,12:00 AM
+Rue 57,"60 W 57Th St New York City, Ny 10019-3953",Vegetarian Friendly; American; French,Yes,+1 212-307-5656,09:00 AM,12:00 AM,09:00 AM,12:00 AM
+Amelie,"22 W 8Th St New York City, Ny 10011-9002",Wine Bar; European; French,No,+1 212-533-2962,11:30 AM,02:00 AM,11:00 AM,12:00 AM
+The candle cafe,"1307 3Rd Ave New York City, Ny 10021-3301",Vegetarian Friendly; American; Cafe,Yes,+1 212-472-0970,09:00 AM,10:00 PM,09:00 AM,09:30 PM
+Blaue gans,"139 Duane St New York City, Ny 10013-3845",Austrian; European; German,Yes,+1 212-571-8880,11:00 AM,12:00 AM,Closed,Closed
+The clocktower,"5 Madison Ave New York City, Ny 10010-3678",European; American; British,No,+1 212-413-4300,06:30 AM,11:00 PM,06:30 AM,10:00 PM
+Maysville,"17 W 26Th St New York City, Ny 10010-1003",Gluten Free Options; Vegetarian Friendly; American,No,+1 646-490-8240,11:00 AM,02:00 AM,11:00 AM,12:00 AM
+Little prince,"199 Prince St New York City, Ny 10012-2925",Gluten Free Options; European; French,No,+1 212-335-0566,05:00 PM,01:00 AM,05:00 PM,01:00 AM
+Blue note,"131 W 3Rd St New York City, Ny 10012-1208",American (Traditional); Jazz & Blues; Bars,No,+1 212-475-8592,06:00 PM,03:00 AM,11:00 AM,12:00 AM
+Gari of columbus,"370 Columbus Ave New York City, Ny 10024-5110",Japanese; Sushi; Asian,Yes,+1 212-362-4816,12:00 PM,10:45 PM,12:00 PM,10:45 PM
+Please don't tell,"113 St. Marks Place New York City, Ny",International; American; Bar,No,+1 212-614-0386,06:00 PM,04:00 AM,06:00 PM,04:00 AM
+Fusco,"43 E 20Th St New York City, Ny 10003-1337",Italian; Vegetarian Friendly,No,+1 212-777-5314,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Otto's tacos,"131 7Th Ave S New York City, Ny 10014-3133",Fast Food; Mexican,Yes,+1 646-657-0646,12:00 PM,02:00 AM,12:00 PM,11:00 PM
+Samba kitchen,"661 9Th Ave New York City, Ny 10036-3659",South American; Brazilian; Bar,Yes,+1 212-256-0171,11:00 AM,01:00 AM,11:00 AM,11:00 PM
+Antonucci cafe,"170 E 81St St New York City, Ny 10028-1804",Italian,Yes,+1 212-570-5100,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Bacaro,"136 Division St New York City, Ny 10002-6129",Italian; Wine Bars; Cocktail Bars,Yes,+1 212-941-5060,06:00 PM,12:00 AM,06:00 PM,12:00 AM
+Inakaya,231 W 40Th Stnew York Times Bldgnew York Ny 10018,Japanese; Sushi; Asian,Yes,+1 212-354-2195,05:00 PM,10:00 PM,05:00 PM,10:00 PM
+Macao trading co,"311 Church St New York City, Ny 10013-2491",Chinese; Portuguese; Asian,Yes,+1 212-431-8642,05:00 PM,04:00 AM,05:00 PM,02:00 AM
+Pizzeria sirenetta,"568 Amsterdam Ave New York City, Ny 10024-2830",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-799-7401,12:30 PM,10:30 PM,12:30 PM,10:00 PM
+15 east restaurant,"15 E 15Th St New York City, Ny 10003-3162",Japanese; Sushi; Asian,No,+1 212-647-0015,12:00 PM,11:00 PM,Closed,Closed
+Barbuto,"775 Washington St New York City, Ny 10014-1748",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-924-9700,12:00 PM,12:00 AM,05:30 PM,10:00 PM
+Vin et fleurs,"69 Thompson St New York City, Ny 10012-4368",Breakfast & Brunch; Wine Bars; French,Yes,+1 212-431-3330,07:30 AM,12:00 AM,07:30 AM,12:00 AM
+Buddakan,"75 9Th Ave New York City, Ny 10011-7006",Chinese; Japanese; Asian,Yes,+1 212-989-6699,05:00 PM,01:00 AM,05:00 PM,11:00 PM
+Quantum leap natural food,"226 Thompson St New York City, Ny 10012-4838",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-677-8050,12:00 PM,10:30 PM,11:00 AM,09:30 PM
+Giano restaurant,"126 E 7Th St New York City, Ny 10009-6128",Italian; Vegetarian Friendly,Yes,+1 212-673-7200,05:30 PM,11:30 PM,05:30 PM,11:00 PM
+Atrio wine bar & restaurant,"102 N End Ave New York City, Ny 10282-1238",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 646-769-4250,06:30 AM,12:00 AM,06:30 AM,12:00 AM
+Lucali,"575 Henry St Brooklyn, Ny 11231-2707",Pizza; Italian; Vegetarian Friendly,Yes,+1 718-858-4086,06:00 PM,10:00 PM,06:00 PM,10:00 PM
+Forlini's restaurant,"93 Baxter St New York City, Ny 10013-4491",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-349-6779,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Angus club steakhouse,"135 E 55Th St New York City, Ny 10022-4049",Gluten Free Options; Steakhouse; American,Yes,+1 212-588-1585,04:00 PM,11:00 PM,Closed,Closed
+Fig & olive meatpacking,"420 W 13Th St New York City, Ny 10014-1103",Italian; Mediterranean; French,Yes,+1 212-924-1200,11:00 AM,11:30 PM,11:00 AM,10:00 PM
+Red rooster harlem,"310 Lenox Avenue New York City, Ny 10027-4449",Vegetarian Friendly; American; Bar,Yes,+1 212-792-9001,10:00 AM,11:30 PM,10:00 AM,10:00 PM
+The meatball shop,"84 Stanton St New York City, Ny 10002-1420",Italian; Vegetarian Friendly; American,Yes,+1 718-551-0520,11:30 AM,04:00 AM,11:30 AM,02:00 AM
+Da andrea ristorante,"35 W 13Th St New York City, Ny 10011-7924",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-367-1979,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+The beatrice inn,"285 W 12Th St New York City, Ny 10014-1941",Seafood; American (Traditional); Cocktail Bars,No,+1 212-675-2808,06:00 PM,01:00 AM,06:00 PM,12:00 AM
+Casa restaurant,"72 Bedford St New York City, Ny 10014-4016",Latin; Spanish; Brazilian,Yes,+1 212-366-9410,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Hunt & fish club,"125 W 44Th St New York City, Ny 10036-4012",Seafood; Gluten Free Options; American,No,+1 212-575-4949,05:00 PM,10:30 PM,03:30 PM,08:00 PM
+Michael jordan's the steak house n.y.c.,23 Vanderbilt Avegrand Central Terminalnew York Ny 10017,Gluten Free Options; Steakhouse; American,No,+1 212-655-2300,05:00 PM,10:15 PM,05:00 PM,09:15 PM
+La villetta,"398 E 52Nd St New York City, Ny 10022-6460",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-829-0003,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Sammy's roumanian steakhouse,"157 Chrystie St New York City, Ny 10002-2836",Desserts; Salad; Steakhouses,Yes,+1 212-673-0330,04:00 PM,11:00 PM,04:00 PM,09:00 PM
+Bistro milano,"1350 Avenue Of The Americas New York City, Ny 10019-4702",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-757-2600,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Pepolino restaurant,"281 W Broadway New York City, Ny 10013-2204",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-966-9983,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Proof coffee roasters,"335 E 27Th St New York City, Ny 10016-9123",Bakeries; Breakfast & Brunch; Coffee Roasteries,Yes,+1 212-233-3985,09:00 AM,05:00 PM,09:00 AM,05:00 PM
+Rafele ristorante,"29 7Th Ave S New York City, Ny 10014-3938",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-242-1999,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Candle 79,"154 E 79Th St New York City, Ny 10075-0423",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-537-7179,12:00 PM,10:30 PM,12:00 PM,10:00 PM
+Hourglass tavern,"373 W 46Th St New York City, Ny 10036-3810",Vegetarian Friendly; American; Bar,Yes,+1 212-265-2060,11:00 AM,01:00 AM,11:00 AM,12:00 AM
+The house,"121 E 17Th St New York City, Ny 10003-2105",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-353-2121,04:30 PM,12:00 AM,04:30 PM,11:30 PM
+Kashkaval garden,"852 9Th Ave New York City, Ny 10019-4452",International; Mediterranean; Canadian,Yes,+1 212-245-1758,11:00 AM,03:00 AM,11:00 AM,12:00 AM
+Dominique bistro,"14 Christopher St New York City, Ny 10014-3523",Wine Bar; European; French,Yes,+1 646-756-4145,09:00 AM,12:00 AM,09:00 AM,12:00 AM
+Omakase room by tatsu,"14 Christopher St New York City, Ny 10014-3523",Wine Bar; European; French,Yes,+1 646-756-4145,09:00 AM,12:00 AM,Closed,Closed
+Bobby van’s steakhouse,"120 W 45Th St New York City, Ny 10036-4195",Seafood; American (Traditional); Steakhouses,Yes,+1 212-575-5623,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Mighty quinn's barbeque,"103 2Nd Ave New York City, Ny 10003-8336",American; Barbecue; Southwestern,Yes,+1 212-677-3733,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Del frisco's double eagle steak house,"1221 Avenue Of The Americas New York City, Ny 10020-1001",Gluten Free Options; Steakhouse; American,No,+1 212-575-5129,05:00 PM,12:00 AM,05:00 PM,10:00 PM
+Del frisco's double eagle steak house,"1221 Avenue Of The Americas New York City, Ny 10020-1001",Gluten Free Options; Steakhouse; American,No,+1 212-575-5129,05:00 PM,12:00 AM,05:00 PM,10:00 PM
+Lolo's seafood shack,"303 W 116Th St New York City, Ny 10026-2008",Caribbean; Seafood; Vegetarian Friendly,Yes,+1 646-649-3356,12:00 PM,09:45 PM,12:00 PM,08:30 PM
+Peacock alley,301 Park Avewaldorf Astorianew York Ny 10022,Seafood; Vegetarian Friendly; American,Yes,+1 212-872-1275,Closed,Closed,Closed,Closed
+Empellón - taqueria,"230 W 4Th St New York City, Ny 10014-3120",Gluten Free Options; Mexican; Latin,Yes,+1 212-367-0999,11:45 AM,12:00 AM,11:45 AM,12:00 AM
+Nerai,"55 E 54Th St New York City, Ny 10022-4206",Seafood; Mediterranean; Greek,Yes,+1 212-759-5554,05:00 PM,10:30 PM,05:00 PM,09:30 PM
+Rocco steakhouse,"72 Madison Ave New York City, Ny 10016-8731",Seafood; Italian; American,Yes,+1 212-696-9660,11:00 AM,11:00 PM,11:00 AM,10:30 PM
+Txikito,"240 9Th Ave New York City, Ny 10001-6602",Basque; Tapas/Small Plates,No,+1 212-242-4730,12:00 PM,11:30 PM,05:00 PM,11:00 PM
+Bobby van's central park south,"40 Central Park S New York City, Ny 10019-1633",Vegetarian Friendly; Steakhouse; American,Yes,+1 212-369-4000,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Ruth's chris steak house,"148 W 51St St New York City, Ny 10019-6813",Gluten Free Options; Steakhouse; American,Yes,+1 212-245-9600,04:00 PM,11:00 PM,04:00 PM,10:00 PM
+V-nam cafe,"20 1St Ave New York City, Ny 10009-7907",Coffee & Tea; Vietnamese; Sandwiches,Yes,+1 212-780-6020,11:00 AM,02:00 AM,11:00 AM,12:00 AM
+Trademark taste + grind,"38 W 36Th St New York City, Ny 10018-8078",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 646-858-2320,07:00 AM,11:00 PM,07:00 AM,11:00 PM
+Becco,"355 W 46Th St New York City, Ny 10036-3810",Italian; Vegetarian Friendly; Vegan Options,No,+1 212-397-7597,11:30 AM,12:00 AM,12:00 PM,10:00 PM
+Cookshop,"156 10Th Ave New York City, Ny 10011-4758",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-924-4440,10:30 AM,10:00 PM,10:30 AM,10:00 PM
+Jongro bbq,"22 W 32Nd St New York City, Ny 10001-3807",Barbecue; Korean; Asian,Yes,+1 212-473-2233,11:30 AM,04:00 AM,11:30 AM,02:00 AM
+Balvanera,"152 Stanton St New York City, Ny 10002-1603",Latin; Steakhouse; Argentinean,Yes,+1 212-533-3348,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Abc cocina,"38 E 19Th St New York City, Ny 10003",Spanish; Mexican; Latin,No,+1 212-475-5829,05:30 PM,11:30 PM,05:30 PM,10:30 PM
+Abc cocina,"38 E 19Th St New York City, Ny 10003",Spanish; Mexican; Latin,Yes,+1 212-475-5829,05:30 PM,11:00 PM,05:30 PM,10:30 PM
+Club macanudo,"26 E 63Rd St New York City, Ny 10065-8030",International; American,No,+1 212-752-8200,12:00 PM,02:00 AM,12:00 PM,10:00 PM
+Shun lee palace,"155 E 55Th St New York City, Ny 10022-4038",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-371-8844,12:00 PM,11:00 PM,12:00 PM,10:30 PM
+Catch,"21 9Th Ave New York City, Ny 10014-1203",Seafood; Japanese; American,No,+1 212-392-5978,11:00 AM,12:00 AM,11:00 AM,11:30 PM
+Havana social - hell’s kitchen,"688 10Th Ave New York City, Ny 10019-7104",Caribbean; Latin; Cuban,Yes,+1 212-956-2155,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Kang ho dong baekjeong,"1 E 32Nd St New York City, Ny 10016-5401",Barbecue; Korean; Asian,No,+1 212-966-9839,11:30 AM,06:00 AM,11:30 AM,02:00 AM
+Rock center cafe,Rockefeller Ctrlower Levelnew York Ny 10001,Vegan Options; Vegetarian Friendly; American,No,+1 212-332-7620,10:00 AM,12:00 AM,10:00 AM,11:00 PM
+Zio ristorante,"17 W 19Th St New York City, Ny 10011-4332",Italian; Gluten Free Options; Mediterranean,Yes,+1 212-352-1700,11:30 AM,11:30 PM,11:30 AM,11:00 PM
+St. anselm,"355 Metropolitan Ave Brooklyn, Ny 11211-3309",Wine Bars; Steakhouses; American (New),No,(718) 384-5054,05:00 PM,12:00 PM,05:00 PM,11:00 PM
+Injera ethiopian restaurant,"11 Abingdon Sq New York City, Ny 10014-1875",Ethiopian; Vegetarian Friendly; African,Yes,+1 212-206-9330,11:30 AM,02:00 AM,11:30 AM,12:30 AM
+Lucien restaurant,"14 1St Ave New York City, Ny 10009-7904",European; French,No,+1 212-260-6481,11:00 AM,02:00 AM,11:00 AM,02:00 AM
+Jane,"100 W Houston St New York City, Ny 10012-2547",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-254-7000,09:00 AM,12:00 AM,09:00 AM,10:00 PM
+Juliana's pizza,"19 Old Fulton St Brooklyn, Ny 11201-1322",Pizza,Yes,+1 718-596-6700,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Norma's,"119 W 56Th St New York City, Ny 10019-4000",Vegan Options; Vegetarian Friendly; American,No,+1 212-708-7460,07:30 AM,03:00 PM,07:30 AM,03:00 PM
+Vintry wine and whiskey,"57 Stone St New York City, Ny 10004-2604",Wine Bar; American; Bar,No,+1 212-480-9800,12:00 PM,04:00 AM,12:00 PM,01:00 AM
+Joe jr. restaurant,"167 3Rd Ave New York City, Ny 10003-2522",Diners; Breakfast & Brunch; American (Traditional),Yes,+1 212-473-5150,06:00 AM,11:30 PM,06:00 AM,11:30 PM
+Nino's restaurant,"1354 1St Ave New York City, Ny 10021-4426",Italian; Gluten Free Options,Yes,+1 212-988-0002,04:00 PM,11:30 PM,04:00 PM,10:00 PM
+Hillstone restaurant,"153 E 53Rd St New York City, Ny 10022-4611",Vegetarian Friendly; Sushi; American,Yes,+1 212-888-3828,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Kingsley,"190 Avenue B New York City, Ny 10009-3600",Wine Bars; Cocktail Bars; American (New),No,+1 212-674-4500,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Calle dao - bryant park,"38 W 39Th St New York City, Ny 10018-3800",Chinese; Asian; Latin,Yes,+1 212-221-9002,11:00 AM,12:00 AM,11:00 AM,11:00 PM
+Mimi,"185 Sullivan St New York City, Ny 10012-2508",French,No,+1 212-418-1260,06:00 PM,02:00 AM,12:00 PM,04:00 PM
+Tevere kosher cuisine of rome,"155 E 84Th St New York City, Ny 10028-2060",Italian; Kosher,Yes,+1 212-744-0210,08:00 PM,11:00 PM,02:00 PM,10:00 PM
+Porteno restaurant,"299 10Th Ave New York City, Ny 10001-7015",Vegetarian Friendly; Argentinean; Latin,Yes,+1 212-695-9694,04:30 PM,11:00 PM,04:30 PM,10:30 PM
+Boqueria,"171 Spring St New York City, Ny 10012-3843",Vegetarian Friendly; Spanish; Mediterranean,Yes,+1 212-343-4255,11:00 AM,11:30 PM,11:00 AM,10:30 PM
+Prince street pizza,"27 Prince St New York City, Ny 10012-3551",Pizza; Italian,Yes,+1 212-966-1960,11:00 AM,12:30 AM,11:00 AM,12:30 AM
+Suteishi,"24 Peck Slip New York City, Ny 10038-1750",Japanese; Sushi; Asian,Yes,+1 212-766-2344,11:30 AM,11:30 PM,11:30 AM,10:00 PM
+Omen azen,"113 Thompson St New York City, Ny 10012-3714",Japanese; Sushi; Asian,No,+1 212-925-8923,06:00 PM,12:00 AM,06:00 PM,12:00 AM
+Clinton st. baking company & restaurant,"4 Clinton St New York City, Ny 10002-1703",Vegetarian Friendly; American; Cafe,Yes,+1 646-602-6263,06:00 PM,11:00 PM,09:00 AM,06:00 PM
+Morandi,"211 Waverly Pl New York City, Ny 10014-2737",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-627-7575,10:00 AM,12:00 AM,10:00 AM,12:00 AM
+Il cantinori,"32 E 10Th St New York City, Ny 10003-6238",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-673-6044,05:00 PM,12:00 AM,05:00 PM,11:00 PM
+Peacefood cafe downtown,"41 E 11Th St New York City, Ny 10003-4602",Vegetarian Friendly; American; Cafe,Yes,+1 212-979-2288,10:00 AM,10:00 PM,10:00 AM,10:00 PM
+Carroll place,"157 Bleecker St New York City, Ny 10012-1625",Pizza; American; Gastropub,Yes,+1 212-260-1700,11:00 AM,02:00 AM,11:00 AM,12:00 AM
+Le parisien,"163 E 33Rd St New York City, Ny 10016-4644",Gluten Free Options; European; French,No,+1 212-889-5489,12:00 PM,10:30 PM,12:00 PM,09:00 PM
+Posto thin crust pizza,"310 2Nd Ave New York City, Ny 10003-2724",Pizza; Italian,Yes,+1 212-716-1200,12:00 AM,11:59 PM,12:00 PM,11:00 PM
+Vanessa's dumpling house,"118 Eldridge St New York City, Ny 10002-4418",Chinese; Fast Food; Asian,Yes,+1 212-625-8008,07:30 AM,10:30 PM,07:30 AM,10:00 PM
+Al fiori,"400 5Th Ave New York City, Ny 10018-2753",Seafood; Italian; French,No,+1 212-613-8660,05:00 PM,11:30 PM,08:00 AM,10:30 PM
+Docks oyster bar and seafood grill,"633 3Rd Ave New York City, Ny 10017-6706",Seafood; Gluten Free Options; American,Yes,+1 212-986-8080,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Trattoria il mulino,"36 E 20Th St New York City, Ny 10003-1315",Italian; Gluten Free Options,Yes,+1 212-777-8448,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Cafe katja,"79 Orchard St New York City, Ny 10002-4535",Austrian; European; German,Yes,+1 212-219-9545,05:00 PM,12:00 AM,05:00 PM,11:00 PM
+Keens steakhouse,"72 West 36Th Street New York City, Ny 10018-8025",Gluten Free Options; Steakhouse; American,Yes,+1 212-947-3636,05:00 PM,10:30 PM,05:00 PM,09:30 PM
+Oatmeals,"120 W 3Rd St New York City, Ny 10012-1235",Vegetarian Friendly; American; Cafe,Yes,+1 646-360-3570,08:00 AM,05:00 PM,08:00 AM,05:00 PM
+Gaonnuri,"1250 Broadway New York City, Ny 10001-3701",Barbecue; Korean; Asian,No,+1 212-971-9045,05:00 PM,10:00 PM,05:00 PM,10:00 PM
+Claudette,"24 5Th Ave New York City, Ny 10011-8858",Vegetarian Friendly; European; French,No,+1 212-868-2424,05:30 PM,11:00 PM,05:30 PM,11:00 PM
+Triomphe,"49 W 44Th St New York City, Ny 10036-6613",Grill; European; French,Yes,+1 212-453-4233,05:00 PM,11:00 PM,07:00 AM,12:00 PM
+Tartinery hudson eats,"225 Liberty St New York City, Ny 10281-1048",Japanese; American; Fast Food,Yes,+1 646-755-8484,10:00 AM,09:00 PM,11:00 AM,07:00 PM
+Azalea ristorante,"224 W 51St St New York City, Ny 10019-6202",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-262-0105,12:00 PM,12:00 AM,12:00 PM,11:30 PM
+The writing room,"1706 2Nd Ave New York City, Ny 10128-3201",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-335-0075,12:00 AM,11:30 PM,11:00 AM,10:00 PM
+Blue ribbon sushi izakaya,"187 Orchard St New York City, Ny 10002-1417",Japanese; Sushi; American,Yes,+1 212-466-0404,07:00 AM,02:00 AM,07:00 AM,12:00 AM
+Koi restaurant,"40 W 40Th St New York City, Ny 10018-2602",Seafood; Japanese; Sushi,No,+1 212-921-3330,05:30 PM,12:00 AM,06:00 PM,10:00 PM
+Blvd bistro,"239 Lenox Avenue New York City, Ny 10027-6341",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-678-6200,09:00 AM,11:00 PM,10:00 AM,06:00 PM
+Chez moi,"135 Atlantic Ave Brooklyn, Ny 11201-5583",Desserts; Cocktail Bars; French,Yes,+1 347-227-8337,10:00 AM,01:00 AM,10:00 AM,12:00 AM
+Stk midtown,"1114 Avenue Of The Americas New York City, Ny 10036-7703",Cocktail Bars; Steakhouses; American (New),No,+1 646-624-2455,05:00 PM,12:00 AM,05:00 PM,12:00 AM
+Redeye grill,"890 7Th Avenue At 56Th Street New York City, Ny 10019-3203",Seafood; Vegetarian Friendly; American,Yes,+1 212-541-9000,11:30 AM,11:30 PM,11:00 AM,10:30 PM
+Crocodile lounge,"325 E 14Th St New York City, Ny 10003-4255",Pizza; American; Bar,No,+1 212-477-7747,12:00 PM,04:00 AM,12:00 PM,04:00 AM
+Lafayette grand cafe & bakery,"380 Lafayette St New York City, Ny 10003-6933",Vegetarian Friendly; European; French,Yes,+1 212-533-3000,08:00 AM,11:00 PM,08:00 AM,10:00 PM
+Megu,"355 W 16Th St New York City, Ny 10011-5902",Japanese; Sushi; Asian,Yes,+1 212-885-9400,05:00 PM,02:00 AM,05:00 PM,12:00 AM
+Woorijip authentic korean food,"12 W 32Nd St New York City, Ny 10001-3813",Vegetarian Friendly; Korean; Asian,Yes,+1 212-244-1115,08:00 AM,03:00 AM,Closed,Closed
+Zuma new york,"261 Madison Ave New York City, Ny 10016-2303",Japanese; Sushi; Asian,No,+1 212-544-9862,05:30 PM,11:30 PM,05:30 PM,10:30 PM
+Brooklyn bagel & coffee company,"286 8Th Ave New York City, Ny 10001-4872",Vegetarian Friendly; American; Cafe,Yes,+1 212-924-2824,06:30 AM,10:00 PM,06:30 AM,10:00 PM
+Dinosaur bar-b-que,"700 W 125Th St New York City, Ny 10027-2314",American; Barbecue; Bar,Yes,+1 212-694-1777,11:30 AM,12:00 AM,12:00 PM,10:00 PM
+La boite en bois,"75 W 68Th St New York City, Ny 10023-5306",Gluten Free Options; European; French,Yes,+1 212-874-2705,11:30 AM,11:00 PM,11:30 AM,10:30 PM
+Socarrat paella bar - midtown east,"953 2Nd Ave New York City, Ny 10022-7757",Spanish; Wine Bars; Tapas/Small Plates,Yes,+1 212-759-0101,11:30 AM,11:30 PM,11:30 AM,11:00 PM
+Temple court,"5 Beekman St New York City, Ny 10038-2206",Breakfast & Brunch; Bars; American (New),No,+1 212-658-1848,06:30 AM,10:45 PM,06:30 AM,10:00 PM
+Osteria al doge,"142 W 44Th St New York City, Ny 10036-4013",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-944-3643,11:00 AM,10:30 PM,11:00 AM,10:30 PM
+Rucola,"190 Dean St Brooklyn, Ny 11217-2212",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 718-576-3209,10:00 AM,12:00 AM,10:00 AM,12:00 AM
+Nano ecuadorian kitchen,"691 10Th Ave New York City, Ny 10036-2935",South American; Ecuadorean; Latin,Yes,+1 646-649-4678,12:00 PM,09:00 PM,12:00 PM,07:00 PM
+Paulie gee's,"60 Greenpoint Ave Brooklyn, Ny 11222-1504",Pizza; Italian; Vegetarian Friendly,No,+1 347-987-3747,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Soigne restaurant & wine bar,"486 6Th Ave New York City, Ny 11215-4018",Wine Bar; Contemporary; American,No,+1 718-369-4814,05:00 PM,11:00 PM,11:00 AM,09:00 PM
+La lanterna di vittorio,"129 Macdougal St New York City, Ny 10012-1076",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-529-5945,10:00 AM,03:00 AM,10:00 AM,02:00 AM
+Balaboosta,"214 Mulberry St New York City, Ny 10012-4130",Israeli; Middle Eastern; Mediterranean,Yes,+1 212-966-7366,05:30 PM,11:00 PM,05:30 PM,10:00 PM
+Bagels & schmear,"114 E 28Th St New York City, Ny 10016-8402",Vegetarian Friendly; American; Cafe,Yes,+1 212-725-7873,05:30 AM,04:00 PM,05:30 AM,04:00 PM
+Coppelia,"207 W 14Th St New York City, Ny 10011-7143",Cuban; Central American; Latin,Yes,+1 212-858-5001,12:00 AM,11:59 PM,12:00 AM,11:59 PM
+Brunetti pizza,"626 Hudson St New York City, Ny 10014-5115",Wine Bar; Italian; Pizza,Yes,+1 212-255-5699,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Gemma,"335 Bowery New York City, Ny 10003-7138",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-505-9100,07:00 AM,01:00 AM,07:00 AM,12:00 AM
+Erminia italian restaurant,"250 E 83Rd St New York City, Ny 10028-2817",Italian,Yes,+1 212-879-4284,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+North end grill,"104 N End Ave New York City, Ny 10282-1236",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 646-747-1600,11:00 AM,10:30 PM,Closed,Closed
+Uncle boon's,"7 Spring St New York City, Ny 10012-4224",Vegetarian Friendly; Thai; Asian,Yes,+1 646-370-6650,05:30 PM,12:00 AM,11:30 AM,10:00 PM
+John's of bleecker street,"278 Bleecker St New York City, Ny 10014-4105",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-243-1680,11:30 AM,12:00 PM,11:30 AM,11:00 PM
+Casellula,"401 W 52Nd St New York City, Ny 10019-5625",Wine Bar; Vegetarian Friendly; Gluten Free Options,No,+1 212-247-8137,05:00 PM,01:00 AM,05:00 PM,01:00 AM
+Yuba restaurant,"105 E 9Th St New York City, Ny 10003-5434",Japanese; Sushi; Asian,Yes,+1 212-777-8188,12:00 PM,11:30 PM,05:00 PM,10:30 PM
+Morton's the steakhouse,"551 5Th Ave New York City, Ny 10176-0001",Gluten Free Options; Diner; American,No,+1 212-972-3315,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Momofuku ma peche,Chambers Hotel15 W 56Th Stnew York Ny 10019,International; Contemporary; Asian,Yes,+1 212-757-5878,05:00 PM,11:00 PM,05:30 PM,10:00 PM
+The edge harlem,"101 Edgecombe Ave New York City, Ny 10030-1901",Caribbean; Jamaican; American,Yes,+1 212-939-9688,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Rotisserie georgette,"14 E 60Th St New York City, Ny 10022-1006",Gluten-Free; Bars; French,Yes,+1 212-390-8060,05:45 PM,11:00 PM,Closed,Closed
+Ootoya times square,"141 W 41St St New York, Ny 10036 New York City, Ny 10036",Japanese; Sushi; Asian,Yes,+1 212-704-0833,05:30 PM,10:30 PM,05:30 PM,10:30 PM
+Buvette gastrotheque,"42 Grove St New York City, Ny 10014-5310",European; Cafe; French,No,+1 212-255-3590,08:00 AM,02:00 AM,08:00 AM,02:00 AM
+King cole bar,2 E 55Th Stthe St. Regis Hotelnew York Ny 10022,International; Contemporary; American,No,+1 212-339-6857,07:00 AM,11:00 PM,07:00 AM,11:00 PM
+King cole bar,"2 E 55Th St New York City, Ny 10022-3103",International; Contemporary; American,Yes,+1 212-339-6857,07:00 AM,11:00 PM,07:00 AM,11:00 PM
+Luzzo’s,"211 1St Ave New York City, Ny 10003-2982",Pizza; Italian,Yes,+1 212-473-7447,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Blacktail,"22 Battery Pl New York City, Ny 10004-1002",Cuban; Bar; Latin,No,+1 212-785-0153,05:00 PM,02:00 AM,05:00 PM,02:00 AM
+Arts and crafts beer parlor,"26 W 8Th St New York City, Ny 10011-9023",Pub; Bar,No,+1 646-678-5263,02:00 PM,01:00 AM,02:00 PM,11:00 PM
+Miriam,"79 5Th Ave Brooklyn, Ny 11217-3201",Israeli; Middle Eastern; Mediterranean,Yes,+1 718-622-2250,10:00 AM,11:00 PM,10:00 AM,10:00 PM
+Felidia,"243 E 58Th St New York City, Ny 10022-1201",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-758-1479,05:00 PM,11:30 PM,04:00 PM,10:00 PM
+Molyvos,"871 7Th Ave New York City, Ny 10019-3923",Seafood; Mediterranean; Greek,Yes,+1 212-582-7500,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Vai restaurant,"429 Amsterdam Ave New York City, Ny 10024-5813",Italian; Wine Bars; Mediterranean,Yes,+1 212-362-4500,11:00 AM,11:00 PM,11:00 AM,03:00 PM
+Philippe by philippe chow,"33 E 60Th St New York City, Ny 10022-1020",Chinese; Asian,Yes,+1 212-644-8885,12:00 PM,12:00 AM,02:00 PM,11:00 PM
+Tanner smith's,"204 W 55Th St New York City, Ny 10019-5240",Pub; American; Bar,No,+1 646-590-2034,11:00 AM,04:00 AM,11:00 AM,04:00 AM
+Baker & co,"259 Bleecker St New York City, Ny 10014-4103",Italian; Vegetarian Friendly; European,Yes,+1 212-255-1234,10:30 AM,11:45 PM,10:30 AM,10:45 PM
+Periyali,"35 W 20Th St New York City, Ny 10011-3709",Vegetarian Friendly; Mediterranean; Greek,No,+1 212-463-7890,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Shu jiao fu zhou cuisine restaurant,"118 Eldridge St New York City, Ny 10002-4418",Chinese,Yes,+1 212-625-2532,09:30 AM,09:30 PM,09:30 AM,09:30 PM
+Nobu downtown,"195 Broadway New York City, Ny 10007-3100",Seafood; Japanese; Sushi,No,+1 212-219-0500,05:30 PM,11:15 PM,05:30 PM,10:15 PM
+Barney greengrass,"541 Amsterdam Ave New York City, Ny 10024-2803",Vegetarian Friendly; American; Delicatessen,Yes,+1 212-724-4707,08:30 AM,05:00 PM,08:30 AM,05:00 PM
+Trattoria dell'arte,"900 7Th Ave New York City, Ny 10106-0200",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-245-9800,12:00 PM,12:00 AM,11:00 AM,10:30 PM
+Rosa mexicano - lincoln center,"61 Columbus Ave New York City, Ny 10023-6901",Central American; Mexican; Latin,Yes,+1 212-977-7700,11:30 AM,11:30 PM,11:30 AM,10:30 PM
+Chikarashi,"227 Canal St New York City, Ny 10013-4112",Seafood; Japanese; Hawaiian,Yes,+1 646-649-5965,11:30 AM,09:00 PM,12:00 PM,04:00 PM
+Amma,"246 E 51St St New York City, Ny 10022-6513",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-644-8330,12:30 PM,10:30 PM,12:30 PM,10:30 PM
+Pisillo italian panini,"97 Nassau St New York City, Ny 10038-2703",Italian; Vegetarian Friendly; Fast Food,Yes,+1 212-227-3104,11:00 AM,06:00 PM,11:00 AM,06:00 PM
+Buenos aires,"513 E 6Th St New York City, Ny 10009-6621",Steakhouse; Argentinean; Latin,Yes,+1 212-228-2775,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+The bar room,"9 W 53Rd St New York City, Ny 10019-5401",Vegetarian Friendly; American; French,No,+1 212-333-1220,11:30 AM,10:30 PM,11:30 AM,03:00 PM
+The modern,"9 W 53Rd St New York City, Ny 10019-5401",Vegetarian Friendly; American; French,No,+1 212-333-1220,11:30 AM,10:30 PM,Closed,Closed
+The bar room,"9 W 53Rd St New York City, Ny 10019-5401",Vegetarian Friendly; American; French,No,+1 212-333-1220,11:30 AM,10:30 PM,11:30 AM,03:00 PM
+The modern,"9 W 53Rd St New York City, Ny 10019-5401",Vegetarian Friendly; American; French,No,+1 212-333-1220,11:30 AM,10:30 PM,Closed,Closed
+New leaf restaurant & bar,"1 Margaret Corbin Dr New York City, Ny 10040-3761",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-568-5323,11:00 AM,09:30 PM,11:00 AM,03:30 PM
+Mezetto,"161 E Houston St New York City, Ny 10002-1004",Vegetarian Friendly; Middle Eastern; Mediterranean,Yes,+1 212-933-4587,11:00 AM,02:00 AM,11:00 AM,12:00 AM
+Alcala restaurant,"246 E 44Th St New York City, Ny 10017-4357",Vegetarian Friendly; Spanish; Mediterranean,Yes,+1 212-370-1866,03:30 PM,12:00 AM,05:00 PM,09:30 PM
+Tiny's giant sandwich shop,"129 Rivington St New York City, Ny 10002-2361",Vegetarian Friendly; American; Cafe,Yes,+1 212-982-1690,09:00 AM,10:00 PM,09:00 AM,10:00 PM
+Bengal tiger indian food,"58 W 56Th St Fl 2 New York City, Ny 10019-3820",Vegetarian Friendly; Indian; Asian,Yes,+1 212-265-2703,11:30 AM,10:30 PM,11:30 AM,10:00 PM
+Emilio's ballato,"55 E Houston St New York City, Ny 10012-2712",Italian,Yes,+1 212-274-8881,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Due restaurant,"1396 3Rd Ave New York City, Ny 10075-0466",Italian,Yes,+1 212-772-3331,12:00 PM,01:00 AM,12:00 PM,12:00 AM
+Ethos gallery 51st,"905 1St Ave New York City, Ny 10022-8009",Seafood; Mediterranean; Greek,Yes,+1 212-888-4060,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+The palm tribeca,"206 West St New York City, Ny 10282-2101",Gluten Free Options; Steakhouse; American,Yes,+1 646-395-6393,05:00 PM,11:00 PM,04:00 PM,09:00 PM
+Takashi,"456 Hudson St New York City, Ny 10014-3781",Japanese; Barbecue; Asian,No,+1 212-414-2929,05:30 PM,12:00 AM,05:00 PM,10:30 PM
+The park room at the helmsley park lane hotel,"36 Central Park S New York City, Ny 10019-1600",American,No,+1 212-521-6655,07:00 AM,11:30 AM,07:00 AM,11:30 AM
+Tessa,"349 Amsterdam Ave New York City, Ny 10024-6900",European; American; Mediterranean,No,+1 212-390-1974,11:00 AM,12:00 AM,11:00 AM,11:00 PM
+Lure fishbar - new york,"142 Mercer St New York City, Ny 10012-3212",Seafood; Sushi; Soups,Yes,+1 212-431-7676,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Fabio cucina italiana,"214 E 52Nd St New York City, Ny 10022-6207",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-688-5200,05:00 PM,12:00 AM,05:00 PM,09:30 PM
+Gotham bar and grill,"12 E 12Th St New York City, Ny 10003-4428",Vegan Options; Vegetarian Friendly; American,No,+1 212-620-4020,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+The nomad bar,10 W 28Th Stthe Nomad Hotelnew York Ny 10001,American; Gastropub; Bar,No,+1 212-796-1500,05:00 PM,02:00 AM,05:00 PM,12:00 AM
+Remi,"145 W 53Rd St New York City, Ny 10019-6005",Italian; European; Mediterranean,Yes,+1 212-581-4242,05:00 PM,10:30 PM,05:00 PM,10:00 PM
+Blue ribbon federal grill,"84 William St New York City, Ny 10038-4601",Grill; International; American,Yes,+1 212-337-0404,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Cafe zaiya,"18 E 41St St New York City, Ny 10017-6222",Japanese; Cafe,Yes,+1 212-779-0600,10:00 AM,08:00 PM,11:00 AM,07:00 PM
+Da noi,"214 E 49Th St New York City, Ny 10017-1565",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-754-5710,03:00 PM,11:30 PM,03:00 PM,09:00 PM
+Noodle village,"13 Mott St New York City, Ny 10013-5025",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-233-0788,10:30 AM,11:00 PM,10:30 AM,11:00 PM
+Etcetera etcetera restaurant,"352 W 44Th St New York City, Ny 10036-5419",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-399-4141,05:00 PM,11:00 PM,11:30 AM,10:00 PM
+Tac n roll,"124 E 4Th St New York City, Ny 10003-0706",International; Fast Food; Mexican,Yes,+1 212-353-0800,01:00 PM,03:00 AM,01:00 PM,10:00 PM
+Hummus place upper west side,"305 Amsterdam Ave New York City, Ny 10023-1739",Mediterranean; Middle Eastern; Lebanese,Yes,+1 212-799-3335,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+La isla restaurant,"104 Washington St Hoboken, Nj 07030-4604",Caribbean; Spanish; Latin,Yes,+1 201-659-8197,07:00 AM,10:00 PM,10:00 AM,09:00 PM
+Carmine's italian restaurant - times square,"200 W 44Th St New York City, Ny 10036-3906",Italian; Desserts; Venues & Event Spaces,Yes,+1 212-221-3800,11:00 AM,12:00 AM,11:00 AM,11:00 PM
+Uva,"1486 2Nd Ave New York City, Ny 10075-1399",Wine Bar; Italian; Vegetarian Friendly,Yes,+1 212-472-4552,11:00 AM,02:00 AM,11:00 AM,02:00 AM
+La sirene,"558 Broome St New York City, Ny 10013-1508",European; French,No,+1 212-925-3061,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Saigon shack,"114 Macdougal St New York City, Ny 10012-1245",Vietnamese; Vegetarian Friendly; Asian,Yes,+1 212-228-0588,11:00 AM,01:00 AM,11:00 AM,11:00 PM
+Sushi of gari 46,"347 W 46Th St New York City, Ny 10036-3815",Japanese; Sushi; Asian,Yes,+1 212-957-0046,05:30 PM,11:15 PM,Closed,Closed
+Kanoyama,"175 2Nd Ave New York City, Ny 10003-5786",Japanese; Sushi; Asian,Yes,+1 212-777-5266,05:30 PM,12:00 AM,05:00 PM,11:00 PM
+Le colonial,"149 E 57Th St New York City, Ny 10022-2101",Vietnamese; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-752-0808,05:30 PM,10:00 PM,05:30 PM,10:00 PM
+Al di la trattoria,"248 5Th Ave Brooklyn, Ny 11215-1201",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 718-636-8888,11:00 AM,10:30 PM,05:00 PM,10:00 PM
+Westville - east,"173 Avenue A New York City, Ny 10009-4501",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-677-2033,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Hearth,"403 E 12Th St New York City, Ny 10009-4024",Gluten Free Options; Vegetarian Friendly; American,No,+1 646-602-1300,06:00 PM,11:00 PM,06:00 PM,10:00 PM
+Joe's pizza,"150 E 14Th St New York City, Ny 10003-4170",Pizza; Italian; Fast Food,Yes,+1 212-388-9474,10:00 AM,04:00 AM,10:00 AM,04:00 AM
+The view restaurant & lounge,"1535 Broadway New York City, Ny 10036-4077",International; Vegetarian Friendly; American,No,+1 212-704-8900,05:00 PM,12:00 AM,10:00 AM,12:00 AM
+Davio’s northern italian steakhouse,"447 Lexington Ave New York City, Ny 10017-3908",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-661-4810,07:00 AM,10:00 PM,07:00 AM,10:00 PM
+Empire steak house east 50th street,"151 E 50Th St New York City, Ny 10022-7510",Gluten Free Options; Steakhouse; American,Yes,+1 212-582-6900,04:00 PM,11:30 PM,11:30 AM,11:30 PM
+Morton's the steakhouse,"136 Washington St New York City, Ny 10006-1038",Gluten Free Options; Steakhouse; American,Yes,+1 212-608-0171,04:00 PM,10:00 PM,04:00 PM,10:00 PM
+Piccoli trattoria,"522 6Th Ave Brooklyn, Ny 11215-6776",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 718-788-0066,11:00 AM,11:30 PM,11:00 AM,11:00 PM
+Barbounia,"250 Park Ave S New York City, Ny 10003-1402",Vegan Options; Vegetarian Friendly; Greek,Yes,+1 212-995-0242,10:00 AM,11:30 PM,10:00 AM,10:30 PM
+Bistro chat noir,"22 E 66Th St New York City, Ny 10065-6533",Vegetarian Friendly; European; French,Yes,+1 212-794-2428,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Indian accent,"123 W 56Th St New York City, Ny 10019-3802",Vegan Options; Vegetarian Friendly; Indian,No,+1 212-842-8070,05:00 PM,10:30 PM,05:00 PM,10:30 PM
+Dorado tacos & quesadillas,"28 E 12Th St New York City, Ny 10003-4448",Spanish; Mexican; Latin,Yes,+1 212-627-0900,11:00 AM,10:00 PM,12:00 PM,09:00 PM
+Mas farmhouse,"39 Downing St New York City, Ny 10014-4319",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-255-1790,06:00 PM,11:30 PM,Closed,Closed
+Sottocasa pizzeria- boerum hill,"298 Atlantic Ave Brooklyn, Ny 11201-6763",Pizza; Italian; Vegetarian Friendly,Yes,+1 718-852-8758,12:00 PM,11:30 PM,12:00 PM,10:30 PM
+2 bros pizza,"31 W 46Th St New York City, Ny 10036-4102",Pizza; American; Fast Food,Yes,+1 212-704-4251,10:00 AM,08:00 PM,10:00 AM,08:00 PM
+Fig & olive fifth avenue,"10 E 52Nd St New York City, Ny 10022-5308",Vegetarian Friendly; European; Mediterranean,Yes,+1 212-319-2002,11:30 AM,10:00 PM,11:30 AM,09:00 PM
+Vatan indian vegetarian,"409 3Rd Ave New York City, Ny 10016-8103",Vegetarian Friendly; Indian; Healthy,No,+1 212-689-5666,05:00 PM,10:00 PM,05:30 PM,09:30 PM
+Blt prime,"111 E 22Nd St New York City, Ny 10010-5400",Steakhouse; American,Yes,+1 212-995-8500,05:30 PM,11:30 PM,05:00 PM,10:00 PM
+Saigon vietnamese sandwich deli,"369 Broome St New York City, Ny 10013-4244",Vietnamese; Fast Food; Asian,Yes,+1 212-219-8341,07:00 AM,07:00 PM,07:00 AM,07:00 PM
+La margarita pizza,"151 Ludlow St New York City, Ny 10002-2206",Pizza; Italian; Fast Food,Yes,+1 212-228-1233,10:00 AM,05:00 AM,10:00 AM,03:00 AM
+Lincoln ristorante,"142 W 65Th St New York City, Ny 10023-6903",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-359-6500,05:00 PM,11:00 PM,11:30 AM,09:30 PM
+Chimichurri grill,"609 9Th Ave New York City, Ny 10036-3700",Steakhouse; Argentinean; Latin,Yes,+1 212-586-8655,12:00 PM,12:00 AM,12:00 PM,10:00 PM
+Sukhumvit 51,"224 E 51St St New York City, Ny 10022-6549",Vegetarian Friendly; Thai; Asian,Yes,+1 212-888-8894,12:00 PM,11:00 PM,12:00 PM,10:30 PM
+&pizza,"15 W 28Th St New York City, Ny 10001-6410",Pizza; Vegan; Vegetarian,Yes,+1 646-968-4634,11:00 AM,12:00 AM,11:00 AM,11:00 PM
+Hometown bar-b-que,"454 Van Brunt St Brooklyn, Ny 11231-1015",American; Barbecue; Southwestern,Yes,+1 347-294-4644,12:00 PM,12:00 AM,12:00 PM,10:00 PM
+Villa berulia,"107 E 34Th St New York City, Ny 10016-4601",Italian; Croatian; European,Yes,+1 212-689-1970,04:30 PM,10:00 PM,04:00 PM,09:00 PM
+Bemelmans bar,35 E 76Th Stcarlyle Hotelnew York Ny 10021,American; Bar,No,+1 212-744-1600,12:00 PM,01:00 AM,12:00 PM,12:00 AM
+Mezzaluna,"1295 3Rd Ave New York City, Ny 10021-3362",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-535-9600,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Avra estiatorio,"141 E 48Th St New York City, Ny 10017-1223",Seafood; Mediterranean; Greek,No,+1 212-759-8550,11:00 AM,12:00 PM,11:00 AM,11:00 PM
+Giardino d'oro,"5 Gold St New York City, Ny 10038-4803",Coffee & Tea; Italian; Seafood,Yes,+1 212-514-6400,11:00 AM,10:00 PM,Closed,Closed
+La pizza & la pasta,"200 5Th Ave New York City, Ny 10010-3302",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-229-2560,11:00 AM,10:30 PM,11:00 AM,10:00 PM
+La pizza & la pasta,"200 5Th Ave New York City, Ny 10010-3302",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-229-2560,11:00 AM,10:30 PM,11:00 AM,10:00 PM
+La pizza & la pasta,"200 5Th Ave New York City, Ny 10010-3302",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-229-2560,11:00 AM,10:30 PM,11:00 AM,10:00 PM
+La pizza & la pasta,"200 5Th Ave New York City, Ny 10010-3302",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-229-2560,11:00 AM,10:30 PM,11:00 AM,10:00 PM
+Serafina at the time hotel,"224 W 49Th St New York City, Ny 10019-7405",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-247-1000,07:00 AM,12:00 AM,07:00 AM,11:00 PM
+Harlem public,"3612 Broadway New York City, Ny 10031-3219",Pub; American; Bar,Yes,+1 212-939-9404,12:00 PM,04:00 AM,11:00 AM,02:00 AM
+Marcha cocina,"4055 Broadway New York City, Ny 10032-1516",Tapas Bars; Spanish; Tapas/Small Plates,Yes,+1 212-928-8272,04:00 PM,12:00 AM,03:00 PM,11:00 PM
+Yakiniku futago,"37 W 17Th St New York City, Ny 10011-5503",Japanese; Barbecue; Asian,No,+1 212-620-0225,05:00 PM,11:00 PM,05:00 PM,11:00 PM
+Briciola,"370 W 51St St New York City, Ny 10019-6403",Tapas Bars; Italian; Wine Bars,No,+1 646-678-5763,12:00 PM,01:30 AM,12:00 PM,12:00 AM
+Rahi,"60 Greenwich Ave New York City, Ny 10011-8396",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-373-8900,05:00 PM,12:00 AM,05:00 PM,11:00 PM
+Tipsy parson,"156 9Th Ave New York City, Ny 10011-4925",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-620-4545,10:00 AM,12:00 AM,10:00 AM,10:00 PM
+Gene's restaurant,"73 W 11Th St New York City, Ny 10011-8605",International; Italian; Gluten Free Options,Yes,+1 212-675-2048,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Piccola cucina osteria,"196 Spring St New York City, Ny 10012-3621",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 646-478-7488,11:30 AM,11:30 PM,11:30 AM,11:30 PM
+Galata mediterranean cuisine,"212 E 34Th St New York City, Ny 10016-4846",Middle Eastern; Mediterranean; Turkish,Yes,+1 212-683-9206,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Mr. chow - tribeca,"121 Hudson St New York City, Ny 10013-2333",Chinese; Asian,Yes,+1 212-965-9500,06:00 PM,11:30 PM,06:00 PM,11:30 PM
+Fred's at barneys new york,"660 Madison Ave New York City, Ny 10065-8405",Vegan Options; Vegetarian Friendly; American,No,+1 212-833-2200,10:00 AM,07:00 PM,11:00 AM,07:00 PM
+Fred's at barneys new york,"660 Madison Ave New York City, Ny 10065-8405",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-833-2200,10:00 AM,07:00 PM,11:00 AM,07:00 PM
+Cafe ollin,"339 E 108Th St New York City, Ny 10029-4252",Spanish; Mexican; Latin,Yes,+1 212-828-3644,10:00 AM,10:00 PM,10:00 AM,10:00 PM
+Sofia wine bar and cafe,"242 E 50Th St New York City, Ny 10022-7763",Wine Bar; Italian,Yes,+1 212-888-8660,05:00 PM,01:30 AM,04:00 PM,11:30 PM
+Neta,"61 W 8Th St New York City, Ny 10011-9017",Japanese; Sushi; Asian,Yes,+1 212-505-2610,12:00 PM,11:30 PM,12:00 PM,10:30 PM
+Somtum der,"85 Avenue A New York City, Ny 10009-6500",Thai; Asian,Yes,+1 212-260-8570,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Ammos estiatorio,"52 Vanderbilt Ave New York City, Ny 10017-3808",Seafood; Mediterranean; Greek,Yes,+1 212-922-9999,11:30 AM,10:00 PM,04:00 PM,10:00 PM
+Freddie and pepper's,"303 Amsterdam Ave New York City, Ny 10023-1755",Pizza; Italian; Fast Food,Yes,+1 212-799-2378,11:00 AM,01:30 AM,11:00 AM,12:00 AM
+Crave fishbar,"945 2Nd Ave New York City, Ny 10022-7761",Seafood; International; Gluten Free Options,Yes,+1 646-895-9585,05:00 PM,11:00 PM,05:00 PM,09:30 PM
+Bagatelle,"1 Little West 12Th St New York City, Ny 10014-1302",Lounges; Mediterranean; French,No,+1 212-488-2110,11:30 AM,02:00 AM,11:30 AM,02:00 AM
+Crif dogs,"113 Saint Marks Pl New York City, Ny 10009-5161",American; Fast Food,Yes,+1 212-614-2728,12:00 PM,02:00 AM,12:00 PM,12:00 AM
+The boil,"139 Chrystie St New York City, Ny 10002-2857",Seafood; American; Cajun & Creole,Yes,+1 212-925-8815,04:00 PM,12:00 AM,04:00 PM,11:00 PM
+The flying cock pub,"497 3Rd Ave New York City, Ny 10016-4854",Pub; American; Bar,Yes,+1 212-689-6900,11:00 AM,04:00 AM,11:00 AM,04:00 AM
+Punjabi grocery & deli,"114 1St Ave New York City, Ny 10009-5726",Vegetarian Friendly; Indian; Delicatessen,Yes,+1 212-533-3356,12:00 AM,11:59 PM,12:00 AM,11:59 PM
+Luke's lobster upper west side,"426 Amsterdam Ave New York City, Ny 10024-5846",Seafood; American; Fast Food,Yes,+1 212-877-8800,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Lic market,"2152 44Th Dr Long Island City, Ny 11101-4710",International; Vegetarian Friendly; American,Yes,+1 718-361-0013,07:00 AM,10:00 PM,11:00 AM,03:30 PM
+Angkor cambodian bistro,"408 E 64Th St New York City, Ny 10065-7848",Cambodian; Vegetarian Friendly; Asian,Yes,+1 212-758-2111,12:00 PM,11:00 PM,04:30 PM,10:30 PM
+Butcher & banker,"481 8Th Ave New York City, Ny 10001-1809",Cocktail Bars; Steakhouses; American (New),No,+1 212-268-8455,04:30 PM,02:00 AM,04:30 PM,02:00 AM
+Champs diner,"197 Meserole St Brooklyn, Ny 11206-2229",Vegetarian Friendly; American; Diner,Yes,+1 718-599-2743,08:00 AM,12:00 AM,08:00 AM,12:00 AM
+Peking duck house,"28 Mott St New York City, Ny 10013-5036",Chinese; Asian,Yes,+1 212-227-1810,11:30 AM,11:30 PM,11:45 AM,10:30 PM
+Capizzi,"547 9Th Ave New York City, Ny 10018-1324",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-695-6900,11:00 AM,01:00 AM,12:00 PM,11:00 PM
+Salinas,"136 9Th Ave New York City, Ny 10011-4949",Spanish; Gluten Free Options; Mediterranean,No,+1 212-776-1990,06:00 PM,11:00 PM,05:45 PM,10:00 PM
+Charlie bird,"5 King St New York City, Ny 10012-2945",Italian; Vegetarian Friendly; American,No,+1 212-235-7133,05:30 AM,12:00 AM,05:30 PM,11:00 PM
+Red hook lobster pound,"284 Van Brunt St Brooklyn, Ny 11231-1236",Seafood; American,Yes,+1 718-858-7650,11:30 AM,10:00 PM,11:30 AM,09:00 PM
+Scalinatella restaurant,"201 E 61St St New York City, Ny 10065-8237",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-207-8280,12:00 PM,11:30 PM,05:00 PM,10:30 PM
+Ootoya chelsea,"8 W 18Th St New York City, Ny 10011-4602",Japanese; Vegetarian Friendly; Asian,No,+1 212-704-0833,05:30 PM,10:30 PM,05:30 PM,10:30 PM
+The dutch,"131 Sullivan St New York City, Ny 10012-3043",Seafood; Contemporary; American,Yes,+1 212-677-6200,10:00 AM,11:30 PM,10:00 AM,11:00 PM
+Freda’s caribbean & soul cuisine,"993 Columbus Ave New York City, Ny 10025-2502",Caribbean; Jamaican,Yes,+1 646-438-9832,01:00 PM,12:00 AM,01:00 PM,10:00 PM
+Smith & wollensky,"797 3Rd Ave New York City, Ny 10022-6226",Gluten Free Options; Steakhouse; American,No,+1 212-753-1530,05:00 PM,11:00 PM,05:00 PM,11:00 PM
+The breslin,"16 W 29Th St New York City, Ny 10001-4502",American; Gastropub; Bar,No,+1 212-679-1939,07:00 AM,12:00 AM,07:00 AM,12:00 AM
+Butter midtown,"70 W 45Th St New York City, Ny 10036-4202",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-253-2828,05:00 PM,10:00 PM,11:00 AM,08:00 PM
+Casa apicii,"62 W 9Th St New York City, Ny 10011-8907",Italian; American; Bar,No,+1 212-353-8400,05:30 PM,11:00 PM,05:30 PM,10:00 PM
+Agora turkish restaurant,"1565 2Nd Ave New York City, Ny 10028-2606",Middle Eastern; Mediterranean; Turkish,Yes,+1 212-717-1220,12:00 PM,10:00 PM,12:00 PM,10:00 PM
+Nai tapas bar,"174 1St Ave New York City, Ny 10009-4506",Tapas Bars; Spanish; Breakfast & Brunch,Yes,+1 212-677-1030,01:00 PM,02:00 AM,12:00 PM,10:00 PM
+The palm too,"840 Second Ave New York City, Ny 10017-4370",Gluten Free Options; American,Yes,+1 212-697-5198,05:00 PM,10:30 PM,05:00 PM,10:00 PM
+Tao downtown,"92 9Th Ave New York City, Ny 10011-4900",Chinese; Japanese; Sushi,No,+1 727-278-7258,05:00 PM,02:00 AM,05:00 PM,01:00 PM
+Strip house,"13 E 12Th St New York City, Ny 10003-4404",Gluten Free Options; Steakhouse; American,No,+1 212-838-9197,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Trattoria belvedere,"165 Lexington Ave New York City, Ny 10016-0008",Italian; Gluten Free Options,Yes,+1 212-684-8805,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Nick’s pizza,"1814 2Nd Ave New York City, Ny 10128-5601",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-987-5700,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Taste of persia nyc,"12 W 18Th St New York City, Ny 10011-4614",Halal; Middle Eastern; Persian,Yes,+1 917-592-3467,12:00 PM,07:00 PM,12:00 PM,07:00 PM
+Da claudio,"21 Ann St New York City, Ny 10038-2405",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-285-2668,05:00 PM,10:30 PM,05:00 PM,10:30 PM
+Pampano new york,"209 E 49Th St New York City, Ny 10017-1501",Seafood; Mexican; Latin,No,+1 212-751-4545,05:00 PM,10:30 PM,05:00 PM,09:30 PM
+Le rivage,"340 W 46Th St New York City, Ny 10036-3928",Vegetarian Friendly; European; French,No,+1 212-765-7374,11:30 AM,11:00 PM,11:30 AM,09:30 PM
+Madison bistro,"238 Madison Ave New York City, Ny 10016-2816",Gluten Free Options; European; French,Yes,+1 212-447-1919,04:30 PM,11:00 PM,04:30 PM,10:30 PM
+Fat cat kitchen,"223 E 14Th St New York City, Ny 10003-4120",Vegetarian Friendly; American; Cafe,Yes,+1 212-235-1994,08:00 AM,08:00 PM,08:00 AM,04:00 PM
+Untamed sandwiches,"43 W 39Th St New York City, Ny 10018-3881",Contemporary; American; Delicatessen,Yes,+1 646-669-9397,11:00 AM,05:00 PM,11:00 AM,05:00 PM
+Bowery meat company,"9 E 1St St New York City, Ny 10003-8901",Gluten Free Options; Steakhouse; American,Yes,+1 212-460-5255,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+The burrito box,"885 9Th Ave New York City, Ny 10019-1700",Vegetarian Friendly; Fast Food; Mexican,Yes,+1 212-489-6889,11:00 AM,11:30 PM,11:00 AM,11:00 PM
+Paola's restaurant,"Madison Avenue New York City, Ny 10128",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-794-1890,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+The brindle room,"277 E 10Th St New York City, Ny 10009-4825",Breakfast & Brunch; Bars; American (New),Yes,+1 212-529-9702,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Jimmy's corner,"140 W 44Th St New York City, Ny 10036-4046",Sports Bars; Dive Bars,No,+1 212-221-9510,12:30 PM,04:00 AM,03:00 PM,04:00 AM
+Sweetgreen,"1164 Broadway New York City, Ny 10001-7512",American; Fast Food; Healthy,Yes,+1 646-449-8884,10:30 AM,10:00 PM,10:30 AM,10:00 PM
+The uncommons,"230 Thompson St New York City, Ny 10012-1370",Coffee & Tea; Tabletop Games,Yes,+1 646-543-9215,08:30 AM,01:00 AM,08:30 AM,11:00 PM
+Vezzo,"178 Lexington Ave New York City, Ny 10016-7304",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-839-8300,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Cask bar + kitchen,"167 E 33Rd St New York City, Ny 10016-4641",International; American; Bar,Yes,+1 212-300-4924,11:30 AM,04:00 AM,11:30 AM,04:00 AM
+Burke & wills,"226 W 79Th St New York City, Ny 10024-6250",Desserts; Bars; Australian,No,+1 646-823-9251,11:00 AM,02:00 AM,12:00 PM,02:00 AM
+Indochine,"430 Lafayette St New York City, Ny 10003-6916",Vietnamese; Vegetarian Friendly; Asian,Yes,+1 212-505-5111,05:30 PM,12:00 AM,05:30 PM,11:30 PM
+Sandro's,"306 E 81St St New York City, Ny 10028-3984",Italian,Yes,+1 212-288-7374,05:00 PM,11:00 PM,04:30 PM,10:00 PM
+Radegast hall and biergarten,"113 N 3Rd St Brooklyn, Ny 11249-3923",Brew Pub; Bar; German,Yes,+1 718-963-3973,11:00 AM,03:00 AM,11:00 AM,02:00 AM
+Feinstein’s/54 below,"254 W 54Th St New York City, Ny 10019-5516",Lounges; Venues & Event Spaces; Cabaret,No,+1 646-476-3551,05:30 PM,12:00 AM,05:30 PM,12:00 AM
+Chez josephine,"414 W 42Nd St New York City, Ny 10036-6806",International; European; French,No,+1 212-594-1925,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Momoya,"427 Amsterdam Ave New York City, Ny 10024-5813",Japanese; Sushi; Asian,Yes,+1 212-580-0007,12:00 PM,11:30 PM,12:00 PM,11:00 PM
+Glass house tavern,"252 W 47Th St New York City, Ny 10036-1415",Vegetarian Friendly; American; Bar,Yes,+1 212-730-4800,11:00 AM,03:00 AM,11:00 AM,02:00 AM
+Sunrise mart,"12 E 41St St New York City, Ny 10017-6221",Japanese; Fast Food; Asian,Yes,+1 646-380-9280,11:00 AM,08:00 PM,11:00 AM,08:00 PM
+Bodega negra,355 W 16Th Stdream Downtownnew York Ny 10011,Spanish; Mexican; Latin,No,+1 646-625-4821,05:30 PM,01:00 AM,05:30 PM,12:00 AM
+La vara,"268 Clinton St Brooklyn, Ny 11201-6145",Spanish; Gluten Free Options; Mediterranean,No,+1 718-422-0065,11:30 AM,12:00 AM,11:30 AM,10:00 PM
+Balthazar restaurant,"80 Spring St New York City, Ny 10012-3907",Soups; European; French,Yes,+1 212-965-1414,06:00 PM,12:00 AM,05:30 PM,12:00 AM
+The mermaid inn,"570 Amsterdam Ave New York City, Ny 10024-2817",Seafood; Gluten Free Options; American,No,+1 212-799-7400,05:00 PM,10:30 PM,05:00 PM,10:00 PM
+Aburiya kinnosuke,"213 E 45Th St New York City, Ny 10017-3309",Japanese; Sushi; Asian,No,+1 212-867-5454,05:30 PM,11:00 PM,05:30 PM,10:30 PM
+Quality meats,"57 W 58Th St New York City, Ny 10019-1630",Gluten Free Options; Steakhouse; American,No,+1 212-371-7777,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Sushi yasaka,"251 W 72Nd St New York City, Ny 10023-2736",Japanese; Sushi; Asian,Yes,+1 212-496-8460,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+The press lounge,"653 11Th Ave New York City, Ny 10036-2004",Bar,No,+1 212-757-2224,05:00 PM,02:00 AM,05:00 PM,01:00 AM
+The fat radish,"17 Orchard St New York City, Ny 10002-6164",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-300-4053,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Kafana,"116 Avenue C New York City, Ny 10009-5343",European; Eastern European,Yes,+1 212-353-8000,12:00 PM,01:00 AM,12:00 PM,11:00 PM
+Cafe himalaya,"78 E 1St St New York City, Ny 10009-7951",Nepali; Tibetan; Asian,Yes,+1 212-358-0160,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Olea,"171 Lafayette Ave Brooklyn, Ny 11238-1019",Spanish; European; Mediterranean,Yes,+1 718-643-7003,10:00 AM,12:00 AM,10:00 AM,11:00 PM
+Blue bar,"59 W 44Th St New York City, Ny 10036-6613",Lounges; Beer Wine & Spirits; Whiskey Bars,No,+1 212-840-6800,12:00 PM,01:00 AM,12:00 PM,01:00 AM
+Natsumi,"226 W 50Th St New York City, Ny 10019-6702",Japanese; Sushi; Asian,Yes,+1 212-258-2988,04:30 PM,11:30 PM,04:30 PM,11:00 PM
+The milling room,"446 Columbus Ave New York City, Ny 10024-5130",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-595-0380,05:00 PM,12:00 AM,05:00 PM,10:00 PM
+Bea,"403 W 43Rd St New York City, Ny 10036-5330",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-602-1910,05:00 PM,02:00 AM,05:00 PM,01:00 AM
+Excuse my french,"96 Orchard St New York City, Ny 10002-3150",Vegetarian Friendly; European; French,No,+1 212-780-9600,05:00 AM,02:00 AM,11:00 AM,12:00 AM
+El quijote,"226 W 23Rd St New York City, Ny 10011-2301",Seafood; Spanish; Latin,Yes,+1 212-929-1855,11:30 AM,01:00 AM,11:30 AM,12:00 AM
+Cha-an,"230 E 9Th St New York City, Ny 10003-7503",Japanese; Asian,Yes,+1 212-228-8030,12:00 PM,12:00 AM,12:00 PM,10:00 PM
+The eddy,"342 E 6Th St New York City, Ny 10003-8727",Wine Bars; Cocktail Bars; American (New),No,+1 646-895-9884,05:30 PM,02:00 AM,05:30 PM,12:00 AM
+Joseph leonard,"170 Waverly Pl New York City, Ny 10014-3845",Vegetarian Friendly; American; Gastropub,No,+1 646-429-8383,10:30 AM,02:00 AM,10:30 AM,12:00 AM
+Death & co,"433 E 6Th St New York City, Ny 10009-6335",Lounges; Cocktail Bars,No,+1 212-388-0882,06:00 PM,02:00 AM,06:00 PM,01:00 AM
+Red farm,"529 Hudson St New York City, Ny 10014-6125",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-792-9700,05:00 PM,11:45 PM,05:00 PM,11:00 PM
+Birdland jazz club,"315 W 44Th St New York City, Ny 10036-5402",Cabaret; Jazz & Blues; Cajun/Creole,No,+1 212-581-3080,05:00 PM,01:00 AM,05:00 PM,01:00 AM
+Cafe luxembourg,"200 W 70Th St New York City, Ny 10023-4323",Vegan Options; Vegetarian Friendly; French,Yes,+1 212-873-7411,09:00 AM,12:00 AM,09:00 AM,11:00 PM
+K rico,"772 9Th Ave New York City, Ny 10019-6327",Steakhouse; American; Latin,Yes,+1 212-757-9393,10:00 AM,11:45 PM,10:00 AM,11:45 PM
+K rico,"772 9Th Ave New York City, Ny 10019-6327",Steakhouse; American; Latin,Yes,+1 212-757-9393,10:00 AM,11:45 PM,10:00 AM,11:45 PM
+Pio pio 8,"604 10Th Ave New York City, Ny 10036-3007",South American; Spanish; Peruvian,Yes,+1 212-459-2929,11:00 AM,11:59 PM,11:00 AM,11:00 PM
+Cosme,"35 E 21St St New York City, Ny 10010-6212",Vegetarian Friendly; Mexican; Latin,No,+1 212-913-9659,05:30 PM,12:00 AM,05:30 PM,11:00 PM
+The waverly inn and garden,"16 Bank St New York City, Ny 10014-5231",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-243-7900,11:00 AM,12:30 AM,11:00 AM,11:30 PM
+Bogota latin bistro,"141 5Th Ave Brooklyn, Ny 11217-4426",Gluten Free Options; Colombian; Latin,Yes,+1 718-230-3805,10:00 AM,01:00 AM,10:00 AM,11:00 PM
+Minton’s playhouse,"206 W 118Th St New York City, Ny 10026-1736",American (Traditional); Jazz & Blues; Bars,No,+1 212-243-2222,06:00 PM,03:30 AM,12:00 PM,10:00 PM
+Print,"653 11Th Ave New York City, Ny 10036-2004",Vegan Options; Vegetarian Friendly; American,No,+1 212-757-2224,07:00 AM,11:00 PM,07:00 AM,09:30 PM
+Santina,"820 Washington St New York City, Ny 10014-1406",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 917-583-9450,05:30 PM,12:00 AM,05:30 PM,10:00 PM
+Cafe boulud,"20 E 76Th St New York City, Ny 10021-2643",Vegan Options; Vegetarian Friendly; French,No,+1 212-772-2600,07:00 AM,11:00 PM,08:00 AM,10:30 PM
+El malecon restaurant,"4141 Broadway New York City, Ny 10033-3702",Caribbean; Spanish; Latin,Yes,+1 212-927-3812,06:00 AM,01:00 AM,06:00 AM,01:00 AM
+Da marino restaurant,"220 W 49Th St New York City, Ny 10019-7562",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-541-6601,11:00 AM,02:00 AM,11:00 AM,02:00 AM
+Quality italian,"57 W 57Th St New York City, Ny 10019-2802",Italian; Vegetarian Friendly; Vegan Options,No,+1 212-390-1111,11:00 AM,11:30 PM,11:00 AM,10:00 PM
+Ichiumi,"6 E 32Nd St New York City, Ny 10016-5422",Seafood; Japanese; Sushi,Yes,+1 212-725-1333,11:30 AM,11:00 PM,11:30 AM,11:00 PM
+Thelewala,"112 Macdougal St New York City, Ny 10012-5011",Vegetarian Friendly; Indian; Fast Food,Yes,+1 212-614-9100,11:30 AM,11:00 PM,11:30 AM,11:00 PM
+Tomino - taberna gallega,"192 Grand St New York City, Ny 10013-3712",Wine Bar; Spanish; Mediterranean,No,+1 212-933-4763,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Non solo piada,"302 W 37Th St New York City, Ny 10018-4299",Italian; Vegetarian Friendly; Fast Food,Yes,+1 212-216-0616,08:00 AM,04:00 PM,08:00 AM,04:00 PM
+Pera mediterranean brasserie,"303 Madison Ave New York City, Ny 10017-6212",European; Mediterranean; Middle Eastern,Yes,+1 212-878-6301,05:30 PM,10:00 PM,05:30 PM,09:00 PM
+Pig and khao,"68 Clinton St New York City, Ny 10002-2408",Vegetarian Friendly; Gluten Free Options; Asian,No,+1 212-920-4485,05:00 PM,12:00 AM,05:00 PM,10:00 PM
+Park avenue autumn/winter/spring/summer,"360 Park Ave S New York City, Ny 10010-1710",Vegan Options; Vegetarian Friendly; American,No,+1 212-951-7111,05:30 PM,11:00 PM,05:00 PM,09:00 PM
+Fette sau,"354 Metropolitan Ave Brooklyn, Ny 11211-3308",Gluten Free Options; American; Barbecue,Yes,+1 718-963-3404,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Faicco’s italian specialties,"260 Bleecker St New York City, Ny 10014-4128",Italian; Meat Shops,Yes,+1 212-243-1974,08:30 AM,06:00 PM,09:00 AM,03:00 PM
+Sushi nakazawa,"23 Commerce St New York City, Ny 10014-3763",Japanese; Sushi; Asian,No,+1 212-924-2212,05:00 PM,10:00 PM,05:00 PM,10:00 PM
+Luanne’s wild ginger all-asian vegan,"380 Broome St New York City, Ny 10013-3748",Fusion; Vegetarian Friendly; Asian,Yes,+1 212-966-1883,11:30 AM,11:00 PM,12:30 PM,10:30 PM
+Peking duck house,"236 E 53Rd St New York City, Ny 10022-5201",Chinese; Asian,Yes,+1 212-759-8260,12:00 PM,11:00 PM,12:00 PM,10:30 PM
+Kiss my slice,"274 W 40Th St New York City, Ny 10018-1519",Pizza; Italian; Fast Food,Yes,+1 212-391-9524,10:00 AM,03:00 AM,10:00 AM,12:00 AM
+Pippali,"129 E 27Th St New York City, Ny 10016-8959",Vegetarian Friendly; Indian; Asian,Yes,+1 212-689-1999,11:30 AM,11:00 PM,11:30 AM,10:30 PM
+Le coq rico nyc,"30 E 20Th St New York City, Ny 10003-1310",Gluten Free Options; French,No,+1 212-267-7426,05:00 PM,11:00 PM,05:00 PM,11:00 PM
+Mike's bistro,"127 E 54Th St New York City, Ny 10022-4512",Contemporary; American; Kosher,Yes,+1 212-799-3911,11:45 AM,10:00 PM,11:45 AM,10:00 PM
+Her name is han,"17 East 31St 1St New York City, Ny 10016",Vegetarian Friendly; Korean; Asian,Yes,+1 212-779-9990,12:00 PM,11:15 PM,12:00 PM,09:15 PM
+Whiskey tavern,"79 Baxter St New York City, Ny 10013-4462",Pub; American; Bar,No,+1 212-374-9119,11:00 AM,04:00 AM,11:00 AM,04:00 AM
+Sumela mediterranean cafe & grill,"1606 1St Ave New York City, Ny 10028-4311",Halal; Mediterranean; Turkish,Yes,+1 212-249-9700,05:00 PM,10:30 PM,05:00 PM,10:30 PM
+Morrell wine bar & cafe,"1 Rockefeller Plz New York City, Ny 10020-2003",Wine Bar; American; Bar,Yes,+1 212-262-7700,11:30 AM,10:00 PM,12:00 PM,05:00 PM
+4 charles prime rib,"4 Charles St New York City, Ny 10014-3004",Seafood; Cocktail Bars; Steakhouses,No,+1 212-561-5992,05:00 PM,12:00 AM,05:00 PM,12:00 AM
+Pylos,"128 E 7Th St New York City, Ny 10009-6100",Vegetarian Friendly; Mediterranean; Greek,Yes,+1 212-473-0220,11:30 AM,01:00 AM,05:00 PM,12:00 AM
+Contra,"138 Orchard St New York City, Ny 10002-3116",American,No,+1 212-466-4633,06:00 PM,11:00 PM,Closed,Closed
+Hakkasan,"311 W 43Rd St New York City, Ny 10036-6413",Chinese; Vegetarian Friendly; Asian,No,+1 212-776-1818,11:30 AM,11:00 PM,11:30 AM,11:00 PM
+L'artusi,"228 W 10Th St New York City, Ny 10014-6405",Italian; Vegetarian Friendly; European,No,+1 212-255-5757,05:30 PM,12:00 AM,11:00 AM,11:00 PM
+Il corallo trattoria,"172 Prince St New York City, Ny 10012-2947",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-941-7119,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Bono trattoria,"3658 Broadway New York City, Ny 10031-1536",Pizza; Italian; Mediterranean,Yes,+1 646-682-9249,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Refinery rooftop,"63 W 38Th St New York City, Ny 10018-3818",Vegan Options; Vegetarian Friendly; American,No,+1 646-664-0372,12:00 PM,01:00 AM,12:00 PM,01:00 AM
+Rasa,"25 W 8Th St New York City, Ny 10011-9001",Japanese; Malaysian; Asian,Yes,+1 212-254-1888,01:00 PM,10:45 PM,01:00 PM,10:45 PM
+Terri,"60 W 23Rd St. New York, Ny 10010 New York City, Ny 10010-5283",American; Fast Food; Healthy,Yes,+1 212-647-8810,08:00 AM,10:00 PM,08:00 AM,10:00 PM
+Sacco pizza,"819 9Th Ave New York City, Ny 10019-4461",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-582-7765,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Paul's da burger joint,"131 2Nd Ave New York City, Ny 10003-8331",American; Diner,Yes,+1 212-529-3033,11:00 AM,12:00 AM,11:00 AM,11:30 PM
+Red farm,"2170 Broadway New York City, Ny 10024-6642",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-724-9700,05:00 PM,11:45 PM,05:00 PM,11:00 PM
+Rossini's restaurant,"108 E 38Th St New York City, Ny 10016-2648",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-683-0135,04:30 PM,11:00 PM,03:00 PM,10:00 PM
+The ginger man,"11 E 36Th St New York City, Ny 10016-3318",Pub; American; Bar,No,+1 212-532-3740,12:30 PM,04:00 AM,12:30 PM,02:00 AM
+Blue seafood bar,"856 9Th Ave New York City, Ny 10019-4451",Seafood; Italian; Mediterranean,Yes,+1 212-757-7511,11:00 AM,02:00 AM,11:00 AM,11:00 PM
+Le marais,"150 W 46Th St New York City, Ny 10036-8511",Steakhouse; Kosher; French,Yes,+1 212-869-0900,Closed,Closed,12:00 PM,12:00 AM
+'cesca,"164 W 75Th St New York City, Ny 10023-1903",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-787-6300,04:30 PM,11:00 PM,04:30 PM,10:00 PM
+Emporio,"231 Mott St New York City, Ny 10012-5711",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-966-1234,11:00 AM,11:45 PM,11:00 AM,10:45 PM
+Yuca bar,"111 Avenue A New York City, Ny 10009-5809",Spanish; Central American; Latin,Yes,+1 212-982-9533,10:00 AM,03:00 AM,11:00 AM,12:00 AM
+Untitled,"99 Gansevoort St New York City, Ny 10014-1404",Vegan Options; Vegetarian Friendly; American,No,+1 212-570-3670,05:30 PM,10:00 PM,05:30 PM,09:00 PM
+Zoralie restaurant,"449 W 51St St New York City, Ny 10019-6310",Dominican; Spanish; Puerto Rican,Yes,+1 646-590-3751,10:00 AM,09:00 PM,10:00 AM,09:00 PM
+Statler grill,"136 West 33Rd Street New York City, Ny 10001",Gluten Free Options; Steakhouse; American,Yes,+1 212-736-3353,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Giorgione,"307 Spring St New York City, Ny 10013-1337",Pizza; Italian; Mediterranean,Yes,+1 212-352-2269,06:00 PM,12:00 AM,Closed,Closed
+Epicerie boulud,"1900 Broadway New York City, Ny 10023-7004",Cafe; Delicatessen; French,Yes,+1 212-595-9606,07:00 AM,11:00 PM,08:00 AM,10:00 PM
+Kingside,"124 W 57Th St New York City, Ny 10019-3318",Gluten Free Options; Vegetarian Friendly; American,Yes,+1 212-707-8000,08:00 AM,12:00 AM,08:00 AM,12:00 AM
+Knickerbocker bar & grill,"33 University Pl New York City, Ny 10003-4512",Steakhouse; American; Bar,Yes,+1 212-228-8490,11:45 AM,02:00 AM,11:45 AM,12:00 AM
+Il buco,"47 Bond St New York City, Ny 10012-2450",Italian; Vegetarian Friendly; Mediterranean,No,+1 212-533-1932,12:00 PM,12:30 AM,05:00 PM,10:30 PM
+The flatiron room,"37 W 26Th St New York City, Ny 10010-1006",Vegetarian Friendly; American; Bar,No,+1 212-725-3860,05:00 PM,02:00 AM,05:00 PM,12:00 AM
+Blossom vegan restaurant,"187 9Th Ave New York City, Ny 10011-4906",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-627-1144,12:00 PM,02:45 PM,12:00 PM,02:45 PM
+The national bar and dining rooms,"557 Lexington Ave New York City, Ny 10022-7512",Vegetarian Friendly; American; Bar,Yes,+1 212-715-2400,08:00 AM,10:00 PM,08:00 AM,10:00 PM
+Nobu 57,"40 W 57Th St New York City, Ny 10019-4001",Seafood; Japanese; Sushi,No,+1 212-757-3000,11:45 AM,11:00 PM,11:45 AM,11:00 PM
+Cagen japan restaurant,"414 E 9Th St New York City, Ny 10009-4907",Japanese; Sushi; Asian,No,+1 212-358-8800,05:30 PM,11:00 PM,05:30 PM,11:00 PM
+Old homestead steak house,"56 9Th Ave New York City, Ny 10011-4994",Grill; Steakhouse; American,No,+1 212-242-9040,12:00 PM,11:30 PM,01:00 PM,09:30 PM
+Sakagura,"211 E 43Rd St New York City, Ny 10017-4707",Japanese; Sushi; Asian,No,+1 212-953-7253,06:00 PM,01:00 AM,06:00 PM,11:00 PM
+Nish nush,"88 Reade St New York City, Ny 10013-3814",Middle Eastern; Mediterranean; Fast Food,Yes,+1 212-964-1318,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+Kings of kobe,"790 9Th Ave New York City, Ny 10019-5613",Hot Dogs; Breakfast & Brunch; Burgers,Yes,+1 212-247-3703,10:00 AM,12:00 AM,10:00 AM,12:00 AM
+Curry-ya,"214 E 10Th St New York City, Ny 10003-7706",Japanese; Asian,Yes,+1 212-995-2877,12:00 PM,09:45 PM,04:00 PM,09:45 PM
+The john dory oyster bar,"1196 Broadway New York City, Ny 10001-5406",Seafood; Gluten Free Options; Bar,No,+1 212-792-9000,12:00 PM,01:00 AM,12:00 PM,01:00 AM
+Corner bistro,"331 W 4Th St New York City, Ny 10014-1901",Pub; American; Bar,Yes,+1 212-242-9502,11:30 AM,04:00 AM,12:00 PM,04:00 AM
+Salumeria rosi,"283 Amsterdam Ave New York City, Ny 10023-2103",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-877-4800,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+The kati roll company,"99 Macdougal St New York City, Ny 10012-5031",Vegetarian Friendly; Indian; Fast Food,Yes,+1 212-420-6517,11:30 AM,05:00 AM,11:30 AM,02:00 AM
+Bricolage,"162 5Th Ave Brooklyn, Ny 11217-3294",Vietnamese; Vegetarian Friendly; Asian,Yes,+1 718-230-1835,05:00 PM,12:00 AM,05:00 PM,11:00 PM
+Patiala indian grill,"371 W 34Th St # 9Ave New York City, Ny 10001-2402",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-564-8255,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+Totto ramen,"366 W 52Nd St New York City, Ny 10019-6200",Japanese; Soups; Asian,No,+1 212-582-0052,12:00 PM,12:00 AM,04:00 PM,11:00 PM
+Arco cafe,"886 Amsterdam Ave New York City, Ny 10025-4452",Italian; Mediterranean; Healthy,Yes,+1 212-665-0033,11:30 AM,10:30 PM,11:30 AM,10:30 PM
+Taim west village,"222 Waverly Pl New York City, Ny 10014-2404",Middle Eastern; Mediterranean; Fast Food,Yes,+1 212-691-1287,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Sant ambroeus,"1000 Madison Ave New York City, Ny 10075-1840",Italian; Vegetarian Friendly; European,Yes,+1 212-570-2211,08:00 AM,11:00 PM,08:00 AM,11:00 PM
+Cucharamama,"233 Clinton St Hoboken, Nj 07030-2554",South American; Spanish; Latin,Yes,+1 201-420-1700,05:00 PM,11:00 PM,11:00 AM,09:00 PM
+Big wong king,"67 Mott St New York City, Ny 10013-4838",Chinese; Asian,Yes,+1 212-964-0540,07:00 AM,11:00 PM,07:00 AM,11:00 PM
+Pure thai cookhouse,"766 9Th Ave New York City, Ny 10019-6323",Vegetarian Friendly; Thai; Asian,Yes,+1 212-581-0999,12:00 PM,11:30 PM,12:00 PM,10:00 PM
+Earl's beer and cheese,"1259 Park Ave New York City, Ny 10029-7119",Pub; American; Bar,Yes,+1 212-289-1581,11:00 AM,02:00 AM,11:00 AM,12:30 AM
+Wolfgang's steakhouse,"4 Park Ave New York City, Ny 10016-5339",Gluten Free Options; Steakhouse; American,No,+1 212-889-3369,12:00 AM,11:30 PM,12:00 AM,11:30 PM
+Ny pizza suprema,"413 8Th Ave New York City, Ny 10001-1804",Pizza; Italian; Fast Food,Yes,+1 212-594-8939,10:30 AM,12:00 AM,10:30 AM,12:00 AM
+Izakaya mew,"53 W 35Th St New York City, Ny 10001-2219",Japanese; Sushi; Asian,Yes,+1 646-368-9384,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+The lambs club,"132 W 44Th St New York City, Ny 10036-4011",Vegetarian Friendly; Contemporary; American,No,+1 212-997-5262,07:00 AM,01:00 AM,07:00 AM,10:30 PM
+Make sandwich,"135 4Th Ave New York City, Ny 10003-4931",American,Yes,+1 212-398-2602,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Pepe rosso social,"173 Mott St New York City, Ny 10013-4230",Italian; Vegetarian Friendly,Yes,+1 212-219-0019,08:00 AM,11:00 PM,08:00 AM,11:00 PM
+Tao uptown,"42 E 58Th St New York City, Ny 10022-1910",Chinese; Japanese; Sushi,Yes,+1 212-888-2288,11:30 AM,01:00 AM,12:00 PM,12:00 AM
+La bonbonniere,"28 8Th Ave New York City, Ny 10014-1803",American; Diner; Cafe,Yes,+1 212-741-9266,07:00 AM,10:00 PM,07:00 AM,10:00 PM
+Desnuda,"122 E 7Th St New York City, Ny 10009-6161",Seafood; Latin American; Wine Bars,No,+1 212-254-3515,06:00 AM,02:00 AM,03:00 PM,12:00 AM
+Caffe dei fiori,"973 Lexington Ave New York City, Ny 10021-5101",Italian; Contemporary; Mediterranean,Yes,+1 212-327-3400,05:30 PM,10:30 PM,11:00 AM,10:30 PM
+Satis bistro,"212 Washington St Jersey City, Nj 07302-4567",Italian; Wine Bars; American (New),Yes,+1 201-435-5151,11:00 AM,11:00 PM,11:00 AM,09:00 PM
+Prince street pizza,"27 Prince St New York City, Ny 10012-3551",Pizza; Italian; Fast Food,Yes,+1 212-966-4100,11:30 AM,02:00 AM,11:30 AM,12:00 AM
+Le charlot,"19 E 69Th St New York City, Ny 10021-4921",European; French,Yes,+1 212-794-6419,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Blue water grill,"31 Union Sq W New York City, Ny 10003-3203",Seafood; Sushi; American,Yes,+1 212-675-9500,11:30 AM,12:00 AM,10:30 AM,10:00 PM
+Luke's lobster east village,"93 E 7Th St New York City, Ny 10009-5702",Seafood; American; Fast Food,Yes,+1 212-387-8487,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Per se,"10 Columbus Cir New York City, Ny 10019-1158",Vegetarian Friendly; American; French,No,+1 212-823-9335,05:30 PM,09:30 PM,05:30 PM,09:30 PM
+Sanpanino,"494 Hudson St New York City, Ny 10014-2819",Italian; Delicatessen,Yes,+1 212-645-7228,08:00 AM,06:00 PM,08:00 AM,05:00 PM
+Vandal,"199 Bowery New York City, Ny 10002-2853",Vegan Options; Vegetarian Friendly; American,No,+1 212-400-0199,05:00 PM,01:00 AM,05:00 PM,04:00 PM
+Taverna kyclades east village,"228 1St Ave New York City, Ny 10009-3468",Seafood; Mediterranean; Greek,Yes,+1 212-432-0011,12:00 PM,11:30 PM,12:00 PM,10:30 PM
+Gramercy tavern,"42 E 20Th St New York City, Ny 10003-1300",Vegan Options; Vegetarian Friendly; American,No,+1 212-477-0777,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Nur,"34 E 20Th St New York City, Ny 10003-1321",Israeli; Middle Eastern; Mediterranean,No,+1 212-505-3420,05:00 PM,10:30 PM,05:00 PM,10:00 PM
+Johnny's bar,"90 Greenwich Ave New York City, Ny 10011-7744",Pub; Bar,No,+1 212-741-5279,12:00 PM,04:00 AM,12:00 PM,04:00 AM
+Root & bone,"200 E 3Rd St New York City, Ny 10009-7716",Southern; Desserts; Comfort Food,Yes,+1 646-682-7080,11:30 AM,12:00 AM,11:30 AM,10:30 PM
+Left bank,"117 Perry St New York City, Ny 10014-2311",Vegetarian Friendly; European; American,Yes,+1 212-727-1170,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Blind tiger ale house,"281 Bleecker St New York City, Ny 10014-4106",Pub; American; Bar,No,+1 212-462-4682,11:30 AM,04:00 AM,11:30 AM,04:00 AM
+Top hops,"94 Orchard St New York City, Ny 10002-3173",Pub,No,+1 212-254-4677,01:00 PM,12:00 AM,12:00 PM,08:00 PM
+Fresh from hell,"326 W 47Th St New York City, Ny 10036-3115",Soups; American; Healthy,Yes,+1 212-956-4355,07:00 AM,08:00 PM,09:00 AM,06:00 PM
+Westville chelsea,"246 W 18Th St New York City, Ny 10011-4528",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-924-2223,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Ben & jack's steak house,"255 5Th Ave New York City, Ny 10016-6516",Gluten Free Options; Steakhouse; American,Yes,+1 212-532-7600,11:45 AM,11:30 PM,11:45 AM,10:30 PM
+Ilili,"236 5Th Ave New York City, Ny 10001-7606",Mediterranean; Middle Eastern; Lebanese,Yes,+1 212-683-2929,12:00 PM,11:30 PM,11:00 AM,10:30 PM
+The east pole,"133 E 65Th St New York City, Ny 10065-7029",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-249-2222,10:30 AM,12:00 AM,10:30 AM,11:00 PM
+Maison premiere,"298 Bedford Ave Brooklyn, Ny 11249-4205",Seafood; Pub; Bar,No,+1 347-335-0446,11:00 AM,04:00 AM,11:00 AM,02:00 AM
+San carlo osteria piemonte,"90 Thompson St New York City, Ny 10012-3744",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-625-1212,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+The wright,"1071 5Th Ave New York City, Ny 10128-0112",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-427-5690,11:30 AM,03:30 PM,11:00 AM,03:30 PM
+Stanton street pizza,"127 Stanton St New York City, Ny 10002-1525",Pizza; Italian,Yes,+1 212-533-4252,10:00 AM,10:00 PM,10:00 AM,10:00 PM
+Five leaves,"18 Bedford Ave Brooklyn, Ny 11222-3102",Contemporary; American; Cafe,Yes,+1 718-383-5345,08:00 AM,01:00 AM,08:00 AM,01:00 AM
+Lupa,"170 Thompson St New York City, Ny 10012-2575",Italian; Vegetarian Friendly; Vegan Options,No,+1 212-982-5089,11:30 AM,12:00 AM,11:30 AM,12:00 AM
+Pilsener haus & biergarten,"1422 Grand St Hoboken, Nj 07030-2376",Pub; Bar; German,Yes,+1 201-683-5465,12:00 PM,02:30 AM,12:00 PM,02:00 AM
+Aroma kitchen & winebar,"36 E 4Th St New York City, Ny 10003-7006",Wine Bar; Italian,Yes,+1 212-375-0100,05:00 PM,01:00 AM,05:00 PM,12:00 AM
+Tony's di napoli - midtown,"147 W 43Rd St New York City, Ny 10036-6575",Italian; Vegetarian Friendly; European,Yes,+1 212-221-0100,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Despana,"408 Broome St New York City, Ny 10013-3269",Spanish; Basque; Grocery,Yes,+1 212-219-5050,11:00 AM,08:00 PM,11:00 AM,08:00 PM
+Yefsi estiatorio,"1481 York Ave New York City, Ny 10075-8842",Vegetarian Friendly; Mediterranean; Greek,Yes,+1 212-535-0293,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Minetta tavern,"113 Macdougal St New York City, Ny 10012-1201",American (New); Breakfast & Brunch; French,No,+1 212-475-3850,05:30 PM,01:00 AM,05:30 PM,12:00 AM
+Uskudar turkish restaurant,"1405 2Nd Ave New York City, Ny 10021-3768",Middle Eastern; Mediterranean; Turkish,Yes,+1 212-988-4046,12:00 PM,10:30 PM,12:00 PM,10:30 PM
+Traif,"229 S 4Th St Brooklyn, Ny 11211-5605",International; American; Gluten Free Options,No,+1 347-844-9578,06:00 PM,02:00 AM,06:00 PM,02:00 AM
+Saiguette,"935 Columbus Ave New York City, Ny 10025-3701",Vietnamese; Vegetarian Friendly; Asian,Yes,+1 212-866-8886,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Le bateau ivre,"230 E 51St St New York City, Ny 10022-6571",Wine Bar; European; French,Yes,+1 212-583-0579,11:00 AM,04:00 AM,11:00 AM,04:00 AM
+Antica ristorante,"8 Stone St New York City, Ny 10004-2202",Italian,Yes,+1 646-439-2200,06:00 AM,11:30 PM,06:00 AM,11:30 PM
+Fogo de chao brazilian steakhouse,"40 W 53Rd St New York City, Ny 10019-6106",Steakhouse; Barbecue; Brazilian,No,+1 212-969-9980,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Re sette,"7 W 45Th St New York City, Ny 10036-4905",Italian; American (Traditional); Bars,Yes,+1 212-221-7530,11:30 AM,11:30 PM,11:30 AM,11:00 PM
+Viceversa,"325 W 51St St New York City, Ny 10019-6424",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-399-9291,04:30 PM,11:00 PM,11:30 AM,10:00 PM
+Manzo ristorante,"200 5Th Ave New York City, Ny 10010-3302",Italian,No,+1 212-229-2180,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Market table,"54 Carmine St New York City, Ny 10014-4424",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-255-2100,10:30 AM,12:00 AM,10:30 AM,10:00 PM
+Patacon pisao les,"139 Essex St New York City, Ny 10002-2321",South American; Spanish; Latin,Yes,+1 646-678-5913,12:00 PM,04:00 AM,12:00 PM,12:00 AM
+Fig & olive uptown,"808 Lexington Ave New York City, Ny 10065-7312",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-207-4555,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Manousheh nyc,"193 Bleecker St New York City, Ny 10012-1443",Middle Eastern; Lebanese; Fast Food,Yes,+1 347-971-5778,08:00 AM,11:00 PM,08:00 AM,11:00 PM
+Il mulino new york - downtown,"86 W 3Rd St New York City, Ny 10012-1095",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-673-3783,12:00 PM,11:00 PM,04:00 PM,10:00 PM
+Junoon restaurant,"27 W 24Th St New York City, Ny 10010-3290",Vegetarian Friendly; Indian; Asian,No,+1 212-490-2100,01:00 PM,11:30 PM,12:00 PM,10:30 PM
+Khe-yo,"157 Duane St New York City, Ny 10013-3836",Korean; Thai; Asian,Yes,+1 212-587-1089,05:30 PM,10:00 PM,05:30 PM,09:00 PM
+Saggio,829 W 181St Stnew York Ny 10033,International; Italian; Gluten Free Options,Yes,(212) 795-3080,10:00 AM,12:00 AM,10:00 AM,11:00 PM
+Lincoln square steak,"208 W 70Th Street New York City, Ny 10023-4302",Gluten Free Options; Steakhouse; American,Yes,+1 212-875-8600,05:00 PM,11:30 PM,05:00 PM,10:30 PM
+Bite,"211 E 14Th St New York City, Ny 10003-4117",Vegan Options; Vegetarian Friendly; Cafe,Yes,+1 212-677-3123,10:30 AM,11:00 PM,10:30 AM,10:00 PM
+Gradisca,"126 W 13Th St New York City, Ny 10011-7802",Italian; Vegetarian Friendly; European,Yes,+1 212-691-4886,05:30 PM,11:30 PM,05:30 PM,11:00 PM
+Charlie palmer steak,"47 West 38Th Street New York City, Ny 10022-3108",Contemporary; Steakhouse; American,Yes,+1 212-302-3838,06:30 AM,12:00 AM,06:30 AM,10:00 PM
+Il buco alimentari & vineria,"53 Great Jones St New York City, Ny 10012-1118",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-837-2622,09:00 AM,12:00 AM,09:00 AM,11:00 PM
+Harlem blues cafe,"2144 5Th Ave New York City, Ny 10037-3487",Italian; American; French,Yes,+1 917-675-7258,08:00 AM,07:00 PM,08:00 AM,07:00 PM
+Basso56,"234 W 56Th St New York City, Ny 10019-4302",Italian; European; Mediterranean,Yes,+1 212-265-2610,12:00 PM,10:30 PM,04:00 PM,10:00 PM
+Maya,1191 1St Avebetween 64Th St & 65Th Stnew York Ny 10065,Contemporary; Mexican; Latin,Yes,+1 212-585-1818,03:00 PM,11:00 PM,11:30 AM,10:00 PM
+Johny's luncheonette,"124 W 25Th St New York City, Ny 10001-7421",Vegetarian Friendly; American; Diner,Yes,+1 212-243-6230,08:30 AM,04:00 PM,08:30 AM,04:00 PM
+Prune,"54 E 1St St New York City, Ny 10003-9313",International; American; Gluten Free Options,No,+1 212-677-6221,05:30 PM,11:00 PM,05:30 PM,11:00 PM
+Bar boulud,"1900 Broadway New York City, Ny 10023-7004",Vegetarian Friendly; Gluten Free Options; French,No,+1 212-595-0303,11:00 AM,12:00 AM,11:00 AM,10:00 AM
+Edi and the wolf,"102 Avenue C New York City, Ny 10009-8506",Austrian; European; German,Yes,+1 212-598-1040,05:00 PM,01:00 AM,05:00 PM,12:00 AM
+Il pesce,"200 5Th Ave New York City, Ny 10010-3302",Italian; Cafes; Grocery,Yes,+1 212-229-2560,11:00 AM,10:00 PM,11:00 AM,09:30 PM
+Il pesce,"200 5Th Ave New York City, Ny 10010-3302",Seafood; Italian,Yes,+1 212-229-2560,11:00 AM,10:00 PM,11:00 AM,09:30 PM
+Candle cafe west,"2427 Broadway New York City, Ny 10024-1706",Vegan Options; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-769-8900,11:30 AM,10:30 PM,11:30 AM,09:30 PM
+Nello,"696 Madison Ave New York City, Ny 10065-7206",Italian,Yes,+1 212-980-9099,11:00 AM,12:00 AM,11:00 AM,12:00 AM
+White oak tavern,"21 Waverly Pl New York City, Ny 10003-6760",Pub; American; Bar,Yes,+1 212-260-2604,11:00 AM,03:00 AM,11:00 AM,02:00 AM
+Beyond sushi,"229 E 14Th St New York City, Ny 10003-4111",Sushi; Asian; Healthy,Yes,+1 646-861-2889,11:30 AM,09:30 PM,11:30 AM,09:30 PM
+Felix cafe,"340 W Broadway New York City, Ny 10013-2210",French,No,+1 212-431-0021,08:00 AM,12:00 AM,08:00 AM,12:00 AM
+Emily,"919 Fulton St Brooklyn, Ny 11238-1735",Pizza; Italian; American,Yes,+1 347-884-9588,05:00 PM,12:00 AM,12:00 PM,11:00 PM
+Little park,"85 W Broadway New York City, Ny 10007-1045",Vegetarian Friendly; Contemporary; American,No,+1 212-220-4110,05:30 PM,10:30 PM,05:30 PM,10:30 PM
+Mamo restaurant,"323 W Broadway New York City, Ny 10013-2226",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 646-964-4641,05:30 PM,11:30 PM,05:30 PM,10:00 PM
+Bobo,"181 W 10Th St New York City, Ny 10014-3130",French; Bars; American (New),No,+1 212-488-2626,11:00 AM,12:00 AM,11:00 AM,12:00 AM
+Spicy village,"68 Forsyth St Frnt B New York City, Ny 10002-5142",Chinese; Asian,Yes,+1 212-625-8299,10:00 AM,11:00 PM,Closed,Closed
+Two e bar & lounge,"2 E 61St St New York City, Ny 10065-8401",Lounges; Tea Rooms,No,+1 212-940-8113,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Gyu-kaku japanese bbq dining,"34 Cooper Sq New York City, Ny 10003-7110",Japanese; Barbecue; Asian,Yes,+1 212-475-2989,11:30 AM,12:00 AM,11:30 AM,10:00 PM
+The soho grand bar & lounge,"310 W Broadway New York City, Ny 10013-2225",Contemporary; American; Bar,No,+1 212-965-3588,06:00 PM,02:00 AM,Closed,Closed
+Bobby van's steakhouse - 50th street,"135 W 50Th St New York City, Ny 10020-1201",Grill; Steakhouse; American,Yes,+1 212-957-5050,04:30 PM,11:00 PM,04:30 PM,11:00 PM
+Boucherie park avenue south,"225 Park Ave S New York City, Ny 10003-1604",Cocktail Bars; Steakhouses; French,Yes,+1 212-353-0200,11:00 AM,12:00 AM,11:00 AM,12:00 AM
+Fish tag,"222 W 79Th St New York City, Ny 10024-6230",Seafood; Breakfast & Brunch; Mediterranean,No,+1 212-362-7470,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Tutto il giorno,"114 Franklin St New York City, Ny 10013-2987",Italian; Gluten Free Options,Yes,+1 212-274-8100,05:30 PM,11:00 PM,05:30 PM,11:00 PM
+Peasant,"194 Elizabeth St New York City, Ny 10012-4255",Italian; Gluten Free Options,No,+1 212-965-9511,06:00 PM,11:30 PM,06:00 PM,10:30 PM
+Beyond sushi,"75 9Th Ave New York City, Ny 10011-7006",Sushi; Fast Food; Healthy,Yes,+1 212-929-2889,10:30 AM,08:30 PM,10:30 AM,08:00 PM
+Amali,"115 E 60Th St New York City, Ny 10022-1124",Vegetarian Friendly; Gluten Free Options; Mediterranean,Yes,+1 212-339-8363,12:00 PM,10:30 PM,12:00 PM,09:30 PM
+H k wonton garden,"79 Mulberry St New York City, Ny 10013-4495",Chinese; Soups; Asian,Yes,+1 212-349-1495,10:00 AM,01:00 AM,10:00 AM,01:00 AM
+The wayfarer,"101 W 57Th St New York City, Ny 10019-2215",Vegetarian Friendly; Sushi; American,Yes,+1 212-691-0030,06:30 AM,11:00 PM,06:30 AM,11:00 PM
+Morso,"420 E 59Th St New York City, Ny 10022-2396",Italian; Vegetarian Friendly,Yes,+1 212-759-2706,12:00 PM,11:00 PM,11:30 AM,10:00 PM
+Chelsea market,"75 9Th Ave New York City, Ny 10011-7006",Vegetarian Friendly; Thai; Asian,Yes,+1 212-924-2999,10:00 AM,09:30 PM,10:00 AM,08:00 PM
+Chelsea market,"75 9Th Ave New York City, Ny 10011-7006",Vegetarian Friendly; Thai; Asian,Yes,+1 212-924-2999,10:00 AM,09:30 PM,10:00 AM,08:00 PM
+Parker and quinn,"63 W 39Th St New York City, Ny 10018-3801",Vegetarian Friendly; American; Bar,Yes,+1 212-729-0277,07:00 AM,04:00 AM,07:00 AM,04:00 AM
+Gigino at wagner park,"20 Battery Pl New York City, Ny 10004-1002",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-528-2228,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Raymi,"43 W 24Th St New York City, Ny 10010-3205",Peruvian; Gluten Free Options; Latin,Yes,+1 212-929-1200,Closed,Closed,Closed,Closed
+Beyond sushi,"62 W 56Th St New York City, Ny 10019-3824",Sushi; Asian; Healthy,Yes,+1 646-964-5097,12:00 PM,09:30 PM,12:00 PM,09:30 PM
+Amada,"250 Vesey St New York City, Ny 10281-1052",Vegetarian Friendly; Vegan Options; Spanish,Yes,+1 212-542-8947,07:30 AM,11:00 PM,07:30 AM,10:00 PM
+Luke's lobster midtown east,"207 E 43Rd St New York City, Ny 10017-4784",Seafood; American; Fast Food,Yes,+1 646-657-0066,11:00 AM,09:00 PM,11:00 AM,09:00 PM
+The sea fire grill,"158 E 48Th St New York City, Ny 10017-1224",Seafood; Vegetarian Friendly; American,Yes,+1 212-935-3785,04:00 PM,10:45 PM,04:00 PM,10:45 PM
+Il mulino prime,"331 W Broadway New York City, Ny 10013-2265",Italian; Steakhouses,Yes,+1 212-226-0020,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Amy ruth's home style southern cuisine,"113 W 116Th St New York City, Ny 10026-2521",Vegetarian Friendly; American,Yes,+1 212-280-8779,08:30 AM,05:30 AM,08:30 AM,11:00 PM
+Scalini fedeli,"165 Duane St New York City, Ny 10013-3332",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-528-0400,05:30 PM,11:00 PM,05:00 PM,09:00 PM
+Luke's lobster- upper east side,"242 E 81St St New York City, Ny 10028-2602",Seafood; American; Fast Food,Yes,+1 212-249-4241,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Colonie,"127 Atlantic Ave Brooklyn, Ny 11201-5546",Gluten Free Options; Vegetarian Friendly; American,No,+1 718-855-7500,11:00 AM,01:00 AM,11:00 AM,12:00 AM
+Sardi's restaurant,"234 W 44Th St New York City, Ny 10036-3909",International; Italian; American,No,+1 212-221-8440,11:30 AM,11:30 PM,12:00 PM,07:00 PM
+Armani ristorante,717 5Th Avegiorgio Armaninew York Ny 10022,Italian; Vegetarian Friendly,No,+1 212-207-1902,11:45 AM,10:00 PM,12:00 PM,03:00 PM
+The grey dog,"242 W 16Th St New York City, Ny 10011-6110",Vegetarian Friendly; American; Cafe,Yes,+1 212-966-1060,07:30 AM,11:30 PM,07:30 AM,10:30 PM
+Dovetail,"103 W 77Th St New York City, Ny 10024-6909",Fusion; Vegetarian Friendly; American,No,+1 212-362-3800,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Strip house,"15 W 44Th St New York City, Ny 10036-6611",Gluten Free Options; Steakhouse; American,No,+1 212-336-5454,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Saxon and parole,"316 Bowery New York City, Ny 10012-2802",Vegan Options; Vegetarian Friendly; American,No,+1 212-254-0350,10:00 AM,12:00 AM,10:00 AM,11:00 PM
+Tommy bahama restaurant | bar | store - new york,"551 5Th Ave New York City, Ny 10176-0001",Caribbean; American; Bar,Yes,+1 212-537-0960,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Campagnola restaurant,"1382 1St Ave New York City, Ny 10021-9522",Italian; Vegetarian Friendly,Yes,+1 212-861-1102,05:00 PM,12:00 AM,05:00 PM,12:00 AM
+Greecologies,"379 Broome St # Ny New York City, Ny 10013-3705",Juice Bars & Smoothies; Greek; Ice Cream & Frozen Yogurt,Yes,+1 212-941-0100,08:00 AM,08:00 PM,08:00 AM,08:00 PM
+Esca,"402 W 43Rd St New York City, Ny 10036-6322",Seafood; Italian; Mediterranean,No,+1 212-564-7272,12:00 PM,11:30 PM,04:30 PM,10:30 PM
+Buceo 95,"201 W 95Th St New York City, Ny 10025-6305",Wine Bar; Spanish; Mediterranean,Yes,+1 212-662-7010,05:00 PM,12:00 PM,05:00 PM,12:00 PM
+Lavagna,"545 E 5Th St New York City, Ny 10009-6729",Italian; Gluten Free Options; Mediterranean,Yes,+1 212-979-1005,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Ricardo steak house,"2145 2Nd Ave New York City, Ny 10029-3354",Seafood; Steakhouses; American (New),Yes,+1 212-289-5895,12:30 PM,12:00 PM,12:30 PM,11:00 PM
+Mulino a vino,"337 W 14Th St New York City, Ny 10014-5004",Wine Bar; Italian; European,Yes,+1 855-343-4513,05:00 PM,12:00 AM,01:00 PM,12:00 AM
+Taco mix,"234 E 116Th St New York City, Ny 10029-1412",Fast Food; Mexican; Latin,Yes,+1 212-831-8147,09:00 AM,05:30 AM,09:00 AM,05:30 AM
+Ousia,"629 W 57Th St New York City, Ny 10019-1001",Vegetarian Friendly; Mediterranean; Greek,Yes,+1 212-333-2000,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Cafe panino mucho giusto,"551 Hudson St New York City, Ny 10014-2496",Bagels; Breakfast & Brunch; Cafes,Yes,+1 212-229-2799,08:00 AM,10:00 PM,08:00 AM,10:00 PM
+Giorgio's of gramercy,"27 E 21St St New York City, Ny 10010-6208",International; Italian; American,Yes,+1 212-477-0007,05:00 PM,11:30 PM,05:00 PM,10:00 PM
+Westville - west,"210 W 10Th St New York City, Ny 10014-6411",Vegetarian Friendly; American; Healthy,Yes,+1 212-741-7971,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Bistro le steak,"1309 3Rd Ave Ste 1 New York City, Ny 10021-3301",Brasseries; Steakhouses; French,Yes,+1 212-517-3800,11:30 AM,12:00 AM,11:30 AM,11:00 PM
+Carbone,"181 Thompson St New York City, Ny 10012-2583",Italian,No,+1 212-254-3000,05:30 PM,12:00 AM,05:30 PM,12:00 AM
+La maison du croque monsieur,"17 E 13Th St New York City, Ny 10003-4480",Cafe; French,Yes,+1 212-675-2227,10:00 AM,09:00 PM,10:00 AM,09:00 PM
+Kiki’s,"130 Division St New York City, Ny 10002-6104",Vegetarian Friendly; Mediterranean; Greek,Yes,+1 646-882-7052,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Shanghai cafe,"100 Mott St New York City, Ny 10013-4626",Chinese; Soups; Asian,Yes,+1 212-966-3988,11:30 AM,09:00 PM,11:30 AM,09:00 PM
+Aurora,"70 Grand St Brooklyn, Ny 11249-4111",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 718-388-5100,06:00 PM,12:00 AM,11:00 AM,10:00 PM
+Il punto ristorante,"507 9Th Ave New York City, Ny 10018-2802",Italian; Vegetarian Friendly; Mediterranean,Yes,+1 212-244-0088,12:00 PM,10:00 PM,12:00 PM,10:00 PM
+Ed's lobster bar,"222 Lafayette St New York City, Ny 10012-4026",Seafood; American (Traditional); Bars,Yes,+1 212-343-3236,12:00 PM,12:00 AM,12:00 PM,09:00 PM
+Gray's papaya,"2090 Broadway Ste 1 New York City, Ny 10023-2802",American; Fast Food,Yes,+1 212-799-0243,12:00 AM,11:59 PM,12:00 AM,11:59 PM
+Blue ribbon sushi bar - hudson eats,"225 Liberty St New York City, Ny 10281-1048",Japanese; Sushi; Asian,Yes,+1 212-786-0808,11:00 AM,09:00 PM,11:00 AM,07:00 PM
+Tasty hand pulled noodles,"1 Doyers St New York City, Ny 10013-5150",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-791-1817,10:30 AM,10:30 PM,10:30 AM,10:30 PM
+Five tacos,"119 Saint Marks Pl New York City, Ny 10009-5133",Mexican,Yes,+1 212-477-7090,Closed,Closed,Closed,Closed
+Eataly,"200 Fifth Ave New York City, Ny 10010-3302",Italian; Vegetarian Friendly; Soups,Yes,+1 212-229-2560,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Eataly,"200 Fifth Ave New York City, Ny 10010-3302",Italian; Vegetarian Friendly; Soups,Yes,+1 212-229-2560,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Eataly,"200 Fifth Ave New York City, Ny 10010-3302",Italian; Vegetarian Friendly; Soups,Yes,+1 212-229-2560,10:00 AM,11:00 PM,10:00 AM,11:00 PM
+Banh mi zon,"443 E 6Th St New York City, Ny 10009-6340",Vietnamese; Salad; Sandwiches,Yes,+1 646-524-6384,12:00 PM,09:00 PM,12:00 PM,08:00 PM
+Dell'anima,"38 8Th Ave New York City, Ny 10014-1803",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-366-6633,11:00 AM,01:00 AM,11:00 AM,12:00 AM
+Biryani cart,"46Th St And 6Th Ave New York City, Ny 10036",International; Indian; Middle Eastern,Yes,+1 917-420-5975,09:00 AM,12:00 PM,09:00 AM,12:00 PM
+Chazz palminteri italian restaurant,"30 W 46Th St New York City, Ny 10036-4500",Seafood; Italian; Vegetarian Friendly,Yes,+1 212-355-5540,04:00 PM,11:00 PM,04:00 PM,10:30 PM
+Sushi of gari tribeca,"130 W Broadway New York City, Ny 10013-3328",Japanese; Sushi; Asian,Yes,+1 212-285-0130,05:30 PM,11:30 PM,Closed,Closed
+Pisticci restaurant,"125 La Salle St New York City, Ny 10027-4651",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-932-3500,11:00 AM,11:00 PM,11:00 AM,11:00 PM
+Fine and rare,"9 E 37Th St New York City, Ny 10016-2822",Lounges; Jazz & Blues; American (New),No,+1 212-725-3866,05:00 PM,02:00 AM,11:00 AM,02:00 AM
+The crosby bar,"79 Crosby St New York City, Ny 10012-3905",Gluten Free Options; American,No,+1 212-226-6400,07:00 AM,01:00 AM,07:00 AM,01:00 AM
+Ruby’s cafe,"219 Mulberry St New York City, Ny 10012-5735",Vegetarian Friendly; American; Cafe,Yes,+1 212-925-5755,09:30 AM,11:00 PM,09:30 AM,11:00 PM
+Caviar russe,"538 Madison Ave New York City, Ny 10022-3215",Seafood; Gluten Free Options,No,+1 212-980-5908,12:00 PM,10:00 PM,12:00 PM,04:00 PM
+Cafe one,"1619 Amsterdam Ave New York City, Ny 10031-6103",Cafe,Yes,+1 212-690-0060,08:00 AM,06:00 PM,08:00 AM,06:00 PM
+Streecha ukrainian kitchen,"33 E 7Th St New York City, Ny 10003-8191",Russian,Yes,+1 212-674-1615,09:00 AM,08:59 AM,09:00 AM,08:59 AM
+The lobster place,"75 9Th Ave New York City, Ny 10011-7006",Seafood; Gluten Free Options,Yes,+1 212-255-5672,09:30 AM,09:00 PM,10:00 AM,08:00 PM
+Sofia pizza shoppe,"989 1St Ave New York City, Ny 10022-4104",Pizza; Italian,Yes,+1 212-888-8816,12:00 PM,10:00 PM,02:00 PM,09:00 PM
+Nica trattoria,"354 E 84Th St New York City, Ny 10028-4403",Italian; Wine Bars,No,+1 212-472-5940,06:00 PM,10:30 PM,06:00 PM,10:30 PM
+Casa mono,"52 Irving Pl New York City, Ny 10003-3447",Spanish; Gluten Free Options; Mediterranean,No,+1 212-253-2773,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Bg - bergdorf goodman,"754 5Th Ave New York City, Ny 10019-2503",Vegan Options; Vegetarian Friendly; American,No,+1 212-872-8977,10:00 AM,07:00 PM,11:00 AM,06:00 PM
+Brasserie 8 1/2,"9 W 57Th St New York City, Ny 10019-2701",Vegetarian Friendly; Gluten Free Options; French,No,+1 212-829-0812,05:00 PM,10:00 PM,11:00 AM,09:00 PM
+Taqueria diana,"129 2Nd Ave New York City, Ny 10003-8348",Fast Food; Mexican; Latin,Yes,+1 646-422-7871,12:00 PM,04:00 AM,01:00 PM,10:00 PM
+Shake shack,"154 E 86Th St New York City, Ny 10028-2107",Juice Bars & Smoothies; Ice Cream & Frozen Yogurt; Burgers,Yes,+1 646-237-5035,11:00 AM,12:00 AM,11:00 AM,11:00 PM
+The meatball shop,"64 Greenwich Ave New York City, Ny 10011-8307",Italian; American (Traditional),Yes,+1 212-982-7815,11:30 AM,02:00 AM,11:30 AM,12:00 AM
+Lusardi's restaurant,"1494 2Nd Ave New York City, Ny 10075-1346",Italian; Gluten Free Options,Yes,+1 212-249-2020,12:00 PM,12:00 AM,12:00 PM,12:00 AM
+Keybar,"432 E 13Th St New York City, Ny 10009-3716",Lounges; Dance Clubs; Cocktail Bars,No,+1 212-478-3021,04:00 PM,04:00 AM,04:00 PM,04:00 AM
+Shake shack,"Southeast Corner Of Madison Square Park New York City, Ny 10010",Ice Cream & Frozen Yogurt; Food Stands; Burgers,Yes,+1 212-889-6600,08:30 AM,10:00 PM,08:30 AM,10:00 PM
+I sodi,"105 Christopher St New York City, Ny 10014-4213",Italian; Vegetarian Friendly,No,+1 212-414-5774,05:30 PM,11:00 PM,05:30 PM,10:30 PM
+Tomoe sushi,"172 Thompson St New York City, Ny 10012-2576",Japanese; Sushi; Asian,Yes,+1 212-777-9346,01:00 PM,11:00 PM,05:00 PM,10:00 PM
+2 bros pizza,"32 Saint Marks Pl New York City, Ny 10003-8033",Pizza,Yes,+1 212-777-0600,10:00 AM,02:00 AM,10:00 AM,12:00 PM
+Wolfgang's steakhouse,"250 W 41St St New York City, Ny 10036-7203",Gluten Free Options; Steakhouse; American,No,+1 212-921-3720,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Table 87 coal oven pizza,"87 Atlantic Ave Brooklyn, Ny 11201-5503",Pizza; Italian; Vegetarian Friendly,Yes,+1 718-797-9300,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Royal 35 steakhouse,"1 E 35Th St New York City, Ny 10016-3828",Gluten Free Options; Steakhouse; American,Yes,+1 212-804-7276,04:00 PM,11:00 PM,04:00 PM,10:00 PM
+Sfoglia restaurant,"1402 Lexington Ave New York City, Ny 10128-1621",Italian; Vegetarian Friendly,No,+1 212-831-1402,05:30 PM,10:30 PM,05:30 PM,10:00 PM
+Tbar,"1278 3Rd Ave New York City, Ny 10021-3656",Gluten Free Options; Steakhouse; American,Yes,+1 212-772-0404,11:30 AM,10:30 PM,11:30 AM,09:30 PM
+Quatorze bis,"323 E 79Th St New York City, Ny 10075-0922",Seafood; Wine Bars; French,Yes,+1 212-535-1414,12:00 PM,10:30 PM,12:00 PM,10:30 PM
+44 & x hell’s kitchen,"622 10Th Ave New York City, Ny 10036-3004",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-977-1170,11:30 AM,12:00 AM,11:30 AM,10:30 PM
+Le gigot,"18 Cornelia St New York City, Ny 10014-4138",Gluten Free Options; European; French,No,+1 212-627-3737,11:00 AM,11:00 PM,05:00 PM,10:00 PM
+D’amore winebar & ristorante,"118 E 116Th St New York City, Ny 10029-1326",Pizza; Italian; Wine Bar,Yes,+1 646-678-3681,11:00 AM,11:00 PM,11:00 AM,10:00 PM
+Firenze ristorante,"1555 2Nd Ave. New York, Ny 10028 New York City, Ny 10028-4127",Italian; Gluten Free Options,Yes,+1 212-861-9368,12:00 PM,12:00 AM,12:00 PM,11:00 PM
+Blue fin,"1567 Broadway New York City, Ny 10036-1517",Seafood; Japanese; American,Yes,+1 212-918-1400,07:00 AM,12:00 AM,07:00 AM,11:00 PM
+Breakroom,"83 Baxter St New York City, Ny 10013-4544",American; Fast Food,Yes,+1 212-227-2802,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+Cocoron,"61 Delancey St New York City, Ny 10002-2916",Japanese; Vegan; Noodles,No,+1 212-925-5220,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+The jeffrey craft beer bar and bites,"311 E 60Th St New York City, Ny 10022-1572",Pub; American; Bar,Yes,+1 212-355-2337,08:00 AM,02:00 AM,11:00 AM,02:00 AM
+Novita restaurant,"102 E 22Nd St New York City, Ny 10010-5404",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-677-2222,05:30 PM,11:00 PM,05:00 PM,10:00 PM
+Hell's kitchen,"754 9Th Ave New York City, Ny 10019-8419",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-977-1588,05:00 PM,12:00 AM,05:00 PM,11:00 PM
+Bistro vendome,"405 E 58Th St New York City, Ny 10022-2302",Gluten Free Options; European; French,Yes,+1 212-935-9100,05:00 PM,11:00 PM,05:00 PM,09:00 PM
+The leopard at des artistes,"1 W 67Th St New York City, Ny 10023-6200",Italian; European; Mediterranean,Yes,+1 212-787-8767,05:00 PM,11:00 PM,05:00 PM,10:00 PM
+Pera soho,"54 Thompson St New York City, Ny 10012-4308",European; Mediterranean; Turkish,Yes,+1 212-878-6305,12:00 PM,11:00 PM,12:00 PM,09:30 PM
+Juicy spot cafe,"109 Ludlow St New York City, Ny 10002-3240",Coffee & Tea; Juice Bars & Smoothies; Ice Cream & Frozen Yogurt,Yes,+1 212-933-0478,10:00 AM,11:30 PM,10:00 AM,10:00 PM
+Momofuku ssam bar,"207 2Nd Ave New York City, Ny 10003-5797",Vegetarian Friendly; Gluten Free Options; Asian,Yes,+1 212-254-3500,11:30 AM,12:30 AM,11:30 AM,11:30 PM
+Los tacos no. 1,"75 9Th Ave New York City, Ny 10011-7006",Fast Food; Mexican; Latin,Yes,+1 212-256-0343,11:00 AM,09:00 PM,11:00 AM,08:00 PM
+Benito one,"174 Mulberry St New York City, Ny 10013-3759",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-226-9171,11:00 AM,10:00 PM,11:00 AM,10:00 PM
+August,"791 Lexington Ave New York City, Ny 10065-8162",Gluten Free Options; Vegetarian Friendly; American,No,+1 212-935-1433,11:30 AM,10:30 PM,11:30 AM,09:00 PM
+Taboonette,"30 E 13Th St New York City, Ny 10003-4666",Middle Eastern; Mediterranean; Fast Food,Yes,+1 212-510-7881,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+L & m delicatessen & catering,"80 7Th Ave New York City, Ny 10011-6646",Grill; Vegetarian Friendly; Delicatessen,Yes,+1 212-242-2645,06:00 AM,01:00 AM,06:00 AM,12:00 AM
+Hummus and pita co,"616 8Th Ave New York City, Ny 10018-3002",Middle Eastern; Mediterranean; Fast Food,Yes,+1 212-944-4500,11:00 AM,10:00 PM,11:00 AM,09:00 PM
+Piccolo angolo restaurant,"621 Hudson St New York City, Ny 10014-1813",Italian; Vegetarian Friendly,Yes,+1 212-229-9177,05:00 PM,11:30 PM,04:00 PM,10:00 PM
+Patsy's italian restaurant,"236 W 56Th St New York City, Ny 10019-4306",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-247-3491,12:00 PM,10:30 PM,12:00 PM,09:30 PM
+Indikitch,"940 8Th Ave New York City, Ny 10019-4287",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 646-918-7778,11:00 AM,09:00 PM,11:00 AM,09:00 PM
+Flute midtown,"205 W 54Th St New York City, Ny 10019-5500",Lounges; Champagne Bars; Speakeasies,No,+1 212-265-5169,04:00 PM,04:00 AM,04:00 PM,02:00 AM
+Dos toros taqueria,"137 4Th Ave New York City, Ny 10003-4916",Vegetarian Friendly; Fast Food; Mexican,Yes,+1 212-677-7300,11:30 AM,11:00 PM,11:30 AM,10:30 PM
+Riverpark,"450 E 29Th St New York City, Ny 10016-8367",Vegan Options; Vegetarian Friendly; American,No,+1 212-729-9790,05:30 PM,11:00 PM,05:30 PM,10:00 PM
+Lavo italian restaurant & nightclub,"39 E 58Th St New York City, Ny 10022-1617",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-750-5588,11:30 AM,01:00 AM,11:30 AM,01:00 AM
+Black barn,"19 E 26Th St New York City, Ny 10010-1450",Vegan Options; Vegetarian Friendly; American,Yes,+1 212-265-5959,05:30 PM,11:00 PM,11:30 AM,03:00 PM
+La brochette kosher steakhouse,"340 Lexington Ave New York City, Ny 10016-0907",Steakhouse; Sushi; Kosher,Yes,+1 212-972-2200,06:00 PM,12:00 PM,05:00 PM,10:00 PM
+Le barricou,"533 Grand St Brooklyn, Ny 11211-3502",Vegetarian Friendly; European; French,Yes,+1 718-782-7372,11:00 AM,12:00 PM,11:00 AM,12:00 PM
+The wild son,"53 Little West 12Th St New York City, Ny 10014-1304",Breakfast & Brunch; Cocktail Bars; American (New),Yes,+1 202-727-7900,10:00 AM,12:00 AM,10:00 AM,04:00 PM
+Blt steak,"106 E 57Th St New York City, Ny 10022-2669",Steakhouse; American,Yes,+1 212-752-7470,05:30 PM,11:30 PM,05:00 PM,10:00 PM
+Mr. chow - 57th,"324 E 57Th St New York City, Ny 10022-2425",Chinese; Vegetarian Friendly; Asian,Yes,+1 212-751-9030,05:00 PM,11:30 PM,05:00 PM,11:30 PM
+Bxl zoute,"50 W 22Nd St New York City, Ny 10010-5883",Belgian; European; Bar,Yes,+1 646-394-9614,11:00 AM,11:30 PM,11:00 AM,11:30 PM
+Hole in the wall cafe & cocktail bar,"15 Cliff St New York City, Ny 10038-2859",Vegetarian Friendly; Cafe; Australian,Yes,+1 212-602-9991,08:00 AM,07:00 PM,08:00 AM,07:00 PM
+Gila's nosh,"221 E 23Rd St New York City, Ny 10010-3906",Israeli; Middle Eastern; Mediterranean,Yes,+1 212-213-3334,09:45 AM,10:00 PM,09:45 AM,10:00 PM
+Aurora soho,"510 Broome St New York City, Ny 10013-1695",Italian; Vegetarian Friendly; Mediterranean,No,+1 212-334-9020,12:00 PM,12:00 AM,12:00 PM,10:30 PM
+Downtown bakery,"69 1St Ave New York City, Ny 10003-9417",Mexican,Yes,+1 212-254-1757,06:00 AM,10:00 PM,06:00 AM,10:00 PM
+The clam,"420 Hudson St New York City, Ny 10014-3932",Seafood; Soups; American,No,+1 212-242-7420,12:00 PM,12:00 AM,12:00 PM,10:00 PM
+Trattoria trecolori,"254 W 47Th St New York City, Ny 10036-5652",Italian; Vegetarian Friendly; Vegan Options,Yes,+1 212-997-4540,12:00 PM,11:15 PM,12:00 PM,10:30 PM
+Bleecker street pizza,"69 7Th Ave S New York City, Ny 10014-4043",Pizza; Italian; Fast Food,Yes,+1 212-924-4466,11:00 AM,05:00 AM,11:00 AM,02:00 AM
+Gelso & grand,"186 Grand St New York City, Ny 10013-3712",Pizza; Italian; Vegetarian Friendly,Yes,+1 212-226-1600,11:00 AM,02:00 AM,11:00 AM,01:00 AM
+West side steakhouse,"597 10Th Ave New York City, Ny 10036-3016",Steakhouse; American,Yes,+1 212-564-4803,11:30 AM,11:00 PM,11:30 AM,10:30 PM
+Cellini restaurant,"65 E 54Th St New York City, Ny 10022-4224",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-751-1555,05:00 PM,09:00 PM,05:00 PM,09:00 PM
+Asiate,"80 Columbus Cir New York City, Ny 10023-5800",Vegan Options; Vegetarian Friendly; Gluten Free Options,No,+1 212-805-8881,06:00 PM,10:00 PM,06:00 PM,09:00 PM
+The ribbon,"20 W 72Nd St New York City, Ny 10023-4100",American; Bar; French,Yes,+1 646-416-9080,10:00 AM,12:00 AM,10:00 AM,11:00 PM
+Quality eats,"19 Greenwich Ave New York City, Ny 10014-3510",Gluten Free Options; Steakhouse; American,No,+1 212-337-9988,11:00 AM,02:00 AM,11:00 AM,10:00 PM
+Caravaggio restaurant,"23 E 74Th St New York City, Ny 10021-2617",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-288-1004,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Village yokocho,"8 Stuyvesant St New York City, Ny 10003-7501",Japanese; Asian,No,+1 212-598-3041,12:00 PM,01:30 AM,12:00 PM,12:30 AM
+Burger heights,"177 Wadsworth Ave New York City, Ny 10033-3879",Fast Food,Yes,+1 212-951-1984,11:30 AM,10:00 PM,11:30 AM,10:00 PM
+Orso,"322 W 46Th St New York City, Ny 10036-3801",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-489-7212,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Le bilboquet,"20 E 60Th St New York City, Ny 10022-1011",Vegetarian Friendly; Gluten Free Options; French,No,+1 212-751-3036,12:00 PM,11:00 PM,12:00 PM,11:00 PM
+Bathtub gin,"136 9Th Ave New York City, Ny 10011-4949",American,No,+1 646-559-1671,06:00 PM,04:00 AM,06:00 PM,02:00 AM
+The odeon,"145 W Broadway New York City, Ny 10013-3373",Vegetarian Friendly; Contemporary; American,Yes,+1 212-233-0507,09:00 AM,12:00 AM,09:00 AM,12:00 AM
+Jubilee,"948 1St Ave New York City, Ny 10022-6471",Vegetarian Friendly; European; French,Yes,+1 212-888-3569,12:00 PM,11:00 PM,12:00 PM,10:00 PM
+Feast,"102 3Rd Ave New York City, Ny 10003-5541",International; Vegetarian Friendly; American,No,+1 212-529-8880,06:00 PM,11:00 PM,11:00 AM,03:00 PM
+Cafe mogador,"133 Wythe Ave Brooklyn, Ny 11249-2809",Moroccan; Middle Eastern; Mediterranean,Yes,+1 718-486-9222,09:00 AM,01:00 AM,09:00 AM,01:00 AM
+Sweet chick,"178 Ludlow St New York City, Ny 10002-1549",Southern; Breakfast & Brunch; American (Traditional),Yes,+1 646-657-0233,11:00 AM,02:00 AM,11:00 AM,12:00 AM
+Corkbuzz wine studio,"13 E 13Th St New York City, Ny 10003-4405",Wine Bar; American,Yes,+1 646-873-6071,04:00 PM,02:00 AM,04:00 PM,12:00 AM
+Go! go! curry!,"273 W 38Th St New York City, Ny 10018-4416",Japanese; Fast Food; Asian,Yes,+1 212-730-5555,10:55 AM,09:55 PM,10:55 AM,09:55 PM
+Dawat haute indian cuisine,"210 E 58Th St New York City, Ny 10022-2030",Vegan Options; Vegetarian Friendly; Indian,Yes,+1 212-355-7555,11:30 AM,11:00 PM,11:30 AM,10:00 PM
+Cocotte,"110 Thompson St New York City, Ny 10012-3749",Vegetarian Friendly; Spanish; French,No,+1 212-965-9100,11:00 AM,11:30 PM,11:00 AM,11:00 PM
+Blue ribbon sushi,"119 Sullivan St New York City, Ny 10012-3680",Japanese; Sushi; Asian,Yes,+1 212-343-0404,12:00 PM,02:00 AM,12:00 PM,02:00 AM
+Harry cipriani restaurant,"781 5Th Ave New York City, Ny 10022-1092",Italian; Vegetarian Friendly; Gluten Free Options,No,+1 212-753-5566,07:30 AM,11:00 PM,07:30 AM,11:00 PM
+Osteria morini,"218 Lafayette St New York City, Ny 10012-4021",Italian; Vegetarian Friendly; Gluten Free Options,Yes,+1 212-965-8777,11:30 AM,12:00 AM,11:30 AM,10:00 PM
+City sandwich,"649 9Th Ave New York City, Ny 10036-3631",Italian; European; Portuguese,Yes,+1 646-684-3943,Closed,Closed,10:00 AM,09:30 PM
+Maharlika,"111 1St Ave New York City, Ny 10003-2962",Filipino; Asian,Yes,+1 646-392-7880,11:00 AM,12:00 AM,11:00 AM,10:00 PM
+Momoya,"185 7Th Ave New York City, Ny 10011-1804",Japanese; Sushi; Asian,Yes,+1 212-989-4466,12:00 PM,10:30 PM,12:00 PM,10:30 PM
+Four cuts,"1076 1St Ave New York City, Ny 10022-2202",Steakhouse; American,Yes,+1 212-204-0008,04:00 PM,11:00 PM,03:00 PM,10:00 PM
+La panineria italiana,"1 W 8Th St New York City, Ny 10011-9001",Coffee & Tea; Italian; Sandwiches,Yes,+1 917-388-3257,10:00 AM,08:00 PM,10:00 AM,08:00 PM
+Joe's pizza - carmine st,"7 Carmine St New York City, Ny 10014-4441",Pizza; Italian; Fast Food,Yes,+1 212-366-1182,10:00 AM,04:30 AM,10:00 AM,04:00 AM
+Atlantic grill at lincoln center,"49 W 64Th St New York City, Ny 10023-6731",Seafood; Sushi; American,No,+1 212-787-4663,11:00 AM,10:00 PM,11:00 AM,10:00 PM
